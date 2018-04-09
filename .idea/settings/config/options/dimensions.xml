@@ -1,0 +1,28 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="251" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="175" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="412" y="147" />
+    <location key="findTextDialog.1366.0.1280.720" x="1760" y="54" />
+    <location key="StructurePopup.1366.0.1280.720" x="1779" y="136" />
+    <location key="findTextDialog.0.0.1366.768" x="437" y="78" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="112" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1344" height="227" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1344" height="227" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1344" height="227" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1344" height="227" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1344" height="227" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1344" height="227" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1344" height="227" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1344" height="227" />
+    <size key="GridCell.Tab.0.left.1366.0.1280.720" width="1258" height="211" />
+    <size key="GridCell.Tab.0.center.1366.0.1280.720" width="1258" height="211" />
+    <size key="GridCell.Tab.0.right.1366.0.1280.720" width="1258" height="211" />
+    <size key="GridCell.Tab.0.bottom.1366.0.1280.720" width="1258" height="211" />
+    <size key="GridCell.Tab.1.left.1366.0.1280.720" width="1258" height="211" />
+    <size key="GridCell.Tab.1.center.1366.0.1280.720" width="1258" height="211" />
+    <size key="GridCell.Tab.1.right.1366.0.1280.720" width="1258" height="211" />
+    <size key="GridCell.Tab.1.bottom.1366.0.1280.720" width="1258" height="211" />
+    <size key="StructurePopup.1366.0.1280.720" width="436" height="367" />
+  </component>
+</application>

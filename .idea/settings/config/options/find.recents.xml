@@ -1,0 +1,12 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>auto-paid</find>
+      <find>Web.Plugin.InvoiceAutoApproveAutoPayPlugin.AutoPaymentFailedBecauseSingleReason</find>
+      <find>faturas pagas</find>
+      <find>None</find>
+      <find>Web.ServiceRequest.StateTransition</find>
+      <find>lantern</find>
+    </findStrings>
+  </component>
+</application>

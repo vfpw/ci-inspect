@@ -1,0 +1,773 @@
+2017-11-25 19:39:31,593 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 19:39:33,072 [   1479]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1342 ms
+2017-11-25 19:39:36,466 [   4873]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 19:39:37,029 [   5436]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 563 ms
+2017-11-25 19:39:37,030 [   5437]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 19:39:37,239 [   5646]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 19:39:37,786 [   6193]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 19:39:37,793 [   6200]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 19:39:37,932 [   6339]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-25 19:39:37,940 [   6347]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-25 19:41:03,048 [  91455]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 19:46:55,014 [ 443421]   INFO - s.incremental.java.JavaBuilder - Using javac 1.8.0_121 to compile java sources
+2017-11-25 19:46:55,016 [ 443423]   INFO - s.incremental.java.JavaBuilder - Compiling 3549 java files; module: configuration
+2017-11-25 19:50:04,109 [ 632516]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-25 19:50:16,198 [ 644605]   INFO -                   #GosuBuilder - Filtering for excluded files took 46 msec.
+2017-11-25 19:50:24,792 [ 653199]   INFO -                   #GosuBuilder - Compiling 6666 gosu files; module: configuration
+2017-11-25 19:59:39,216 [1207623]   INFO -                   #GosuBuilder - Memory usage: 2532MB
+2017-11-25 20:00:59,166 [1287573]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 123462 ms, 0 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'PCF' builder took 119605 ms, 0 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu (noncompiled) Jar' builder took 112 ms, 0 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Localization' builder took 1553 ms, 0 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Entity Role Constraints' builder took 323 ms, 0 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 651426 ms, 6579 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 70367 ms, 0 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Permission' builder took 3674 ms, 0 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 3743 ms, 0 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 175408 ms, 3549 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 29772 ms, 0 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Studio Resource Compiler' builder took 26392 ms, 2431 sources processed
+2017-11-25 20:01:29,746 [1318153]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 79807 ms, 4939 sources processed
+2017-11-25 20:01:29,747 [1318154]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 255 ms, 0 sources processed
+2017-11-25 20:01:32,886 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 20:01:33,965 [   1079]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 991 ms
+2017-11-25 20:01:33,984 [   1098]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 20:01:34,025 [   1139]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 20:01:34,720 [   1834]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 694 ms
+2017-11-25 20:01:34,720 [   1834]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 20:01:34,868 [   1982]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 20:01:35,210 [   2324]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 20:01:35,227 [   2341]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 20:01:35,324 [   2438]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2438 ms
+2017-11-25 20:06:34,469 [ 301583]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-25 20:06:34,476 [ 301590]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-25 20:06:45,626 [ 312740]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 3906 ms, 0 sources processed
+2017-11-25 20:06:45,626 [ 312740]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 60 ms, 0 sources processed
+2017-11-25 20:06:45,626 [ 312740]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 932 ms, 68 sources processed
+2017-11-25 20:06:45,626 [ 312740]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 82 ms, 0 sources processed
+2017-11-25 20:06:45,626 [ 312740]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 137 ms, 0 sources processed
+2017-11-25 20:06:46,992 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 20:06:47,945 [    953]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 900 ms
+2017-11-25 20:06:47,959 [    967]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 20:06:47,989 [    997]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 20:06:48,432 [   1440]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 443 ms
+2017-11-25 20:06:48,432 [   1440]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 20:06:48,572 [   1580]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 20:06:48,941 [   1949]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 20:06:48,955 [   1963]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 20:06:49,096 [   2104]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2105 ms
+2017-11-25 20:15:09,435 [ 502443]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-25 20:15:09,454 [ 502462]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-25 20:15:27,377 [ 520385]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 232 ms, 0 sources processed
+2017-11-25 20:15:27,377 [ 520385]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 61 ms, 0 sources processed
+2017-11-25 20:15:27,377 [ 520385]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 7699 ms, 0 sources processed
+2017-11-25 20:15:27,377 [ 520385]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 60 ms, 0 sources processed
+2017-11-25 20:15:27,377 [ 520385]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 95 ms, 1 sources processed
+2017-11-25 20:15:27,377 [ 520385]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 125 ms, 0 sources processed
+2017-11-25 20:15:28,918 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 20:15:30,025 [   1107]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1021 ms
+2017-11-25 20:15:30,044 [   1126]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 20:15:30,075 [   1157]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 20:15:30,590 [   1672]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 515 ms
+2017-11-25 20:15:30,590 [   1672]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 20:15:30,754 [   1836]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 20:15:31,130 [   2212]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 20:15:31,141 [   2223]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 20:15:31,247 [   2329]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2330 ms
+2017-11-25 20:15:31,413 [   2495]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-25 20:15:31,423 [   2505]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-25 20:15:36,108 [   7190]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 73 ms, 0 sources processed
+2017-11-25 20:15:36,108 [   7190]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 176 ms, 0 sources processed
+2017-11-25 20:15:36,108 [   7190]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 4189 ms, 0 sources processed
+2017-11-25 20:15:36,108 [   7190]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 74 ms, 0 sources processed
+2017-11-25 20:15:42,903 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 20:15:44,369 [   1466]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1320 ms
+2017-11-25 20:15:44,385 [   1482]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 20:15:44,415 [   1512]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 20:15:44,932 [   2029]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 517 ms
+2017-11-25 20:15:44,932 [   2029]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 20:15:45,077 [   2174]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 20:15:45,552 [   2649]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 20:15:45,559 [   2656]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 20:15:45,789 [   2886]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2888 ms
+2017-11-25 21:16:48,924 [3666021]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-25 21:16:48,970 [3666067]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-25 21:17:24,767 [3701864]   INFO - s.incremental.java.JavaBuilder - Using javac 1.8.0_121 to compile java sources
+2017-11-25 21:17:24,769 [3701866]   INFO - s.incremental.java.JavaBuilder - Compiling 98 java files; module: configuration
+2017-11-25 21:17:53,320 [3730417]   INFO - brains.jps.incremental.Builder - Dependency analysis found 17 affected files
+2017-11-25 21:17:55,725 [3732822]   INFO -                   #GosuBuilder - Filtering for excluded files took 5 msec.
+2017-11-25 21:18:04,223 [3741320]   INFO -                   #GosuBuilder - Compiling 539 gosu files; module: configuration
+2017-11-25 21:19:20,371 [3817468]   INFO -                   #GosuBuilder - Memory usage: 464MB
+2017-11-25 21:19:22,963 [3820060]   INFO - brains.jps.incremental.Builder - Dependency analysis found 48 affected files
+2017-11-25 21:19:31,055 [3828152]   INFO - s.incremental.java.JavaBuilder - Compiling 17 java files; module: configuration
+2017-11-25 21:19:39,891 [3836988]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-25 21:19:40,268 [3837365]   INFO -                   #GosuBuilder - Filtering for excluded files took 0 msec.
+2017-11-25 21:19:47,764 [3844861]   INFO -                   #GosuBuilder - Compiling 48 gosu files; module: configuration
+2017-11-25 21:20:09,529 [3866626]   INFO -                   #GosuBuilder - Memory usage: 532MB
+2017-11-25 21:20:10,087 [3867184]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-25 21:20:10,234 [3867331]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 34075 ms, 104 sources processed
+2017-11-25 21:20:10,234 [3867331]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 1123 ms, 0 sources processed
+2017-11-25 21:20:10,235 [3867332]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 13397 ms, 0 sources processed
+2017-11-25 21:20:10,235 [3867332]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 118510 ms, 573 sources processed
+2017-11-25 21:20:10,235 [3867332]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 12395 ms, 0 sources processed
+2017-11-25 21:20:10,235 [3867332]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 5202 ms, 111 sources processed
+2017-11-25 21:20:10,235 [3867332]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Localization' builder took 2007 ms, 0 sources processed
+2017-11-25 21:20:10,235 [3867332]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 633 ms, 0 sources processed
+2017-11-25 21:20:10,235 [3867332]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 1171 ms, 0 sources processed
+2017-11-25 21:20:12,710 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 21:20:14,009 [   1299]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1166 ms
+2017-11-25 21:20:14,033 [   1323]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 21:20:14,096 [   1386]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 21:20:14,852 [   2142]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 756 ms
+2017-11-25 21:20:14,852 [   2142]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 21:20:15,049 [   2339]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 21:20:15,550 [   2840]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 21:20:15,557 [   2847]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 21:20:15,654 [   2944]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2946 ms
+2017-11-25 21:23:56,122 [ 223412]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-11-25 21:27:08,452 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 21:27:09,229 [    777]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 721 ms
+2017-11-25 21:27:09,479 [   1027]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 21:27:10,354 [   1902]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 875 ms
+2017-11-25 21:27:10,354 [   1902]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 21:27:10,581 [   2129]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 21:27:10,887 [   2435]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 21:27:10,894 [   2442]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 21:27:11,195 [   2743]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-25 21:27:11,212 [   2760]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-25 21:27:11,448 [   2996]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 21:28:16,183 [  67731]   INFO - s.incremental.java.JavaBuilder - Using javac 1.8.0_121 to compile java sources
+2017-11-25 21:28:16,198 [  67746]   INFO - s.incremental.java.JavaBuilder - Compiling 104 java files; module: configuration
+2017-11-25 21:28:47,156 [  98704]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-25 21:28:48,525 [ 100073]   INFO -                   #GosuBuilder - Filtering for excluded files took 4 msec.
+2017-11-25 21:28:54,540 [ 106088]   INFO -                   #GosuBuilder - Compiling 587 gosu files; module: configuration
+2017-11-25 21:30:05,655 [ 177203]   INFO -                   #GosuBuilder - Memory usage: 622MB
+2017-11-25 21:30:07,934 [ 179482]   INFO - brains.jps.incremental.Builder - Dependency analysis found 48 affected files
+2017-11-25 21:30:08,111 [ 179659]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Localization' builder took 2975 ms, 0 sources processed
+2017-11-25 21:30:08,111 [ 179659]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 22637 ms, 0 sources processed
+2017-11-25 21:30:08,111 [ 179659]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 30788 ms, 104 sources processed
+2017-11-25 21:30:08,111 [ 179659]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 76 ms, 6 sources processed
+2017-11-25 21:30:08,111 [ 179659]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 1188 ms, 0 sources processed
+2017-11-25 21:30:08,111 [ 179659]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 80235 ms, 573 sources processed
+2017-11-25 21:30:08,111 [ 179659]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 68 ms, 0 sources processed
+2017-11-25 21:30:08,111 [ 179659]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 13832 ms, 0 sources processed
+2017-11-25 21:30:08,111 [ 179659]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 496 ms, 0 sources processed
+2017-11-25 21:30:09,602 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 21:30:10,687 [   1085]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1014 ms
+2017-11-25 21:30:10,701 [   1099]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 21:30:10,730 [   1128]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 21:30:11,770 [   2168]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1040 ms
+2017-11-25 21:30:11,770 [   2168]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 21:30:11,982 [   2380]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 21:30:12,679 [   3077]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 21:30:12,687 [   3085]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 21:30:12,811 [   3209]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3210 ms
+2017-11-25 21:51:34,037 [1284435]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-11-25 21:51:49,970 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 21:51:50,888 [    918]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 801 ms
+2017-11-25 21:51:50,988 [   1018]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 21:51:51,381 [   1411]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 393 ms
+2017-11-25 21:51:51,381 [   1411]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 21:51:51,475 [   1505]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 21:51:51,826 [   1856]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 21:51:51,830 [   1860]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 21:51:51,905 [   1935]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-25 21:51:51,911 [   1941]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-25 21:51:51,998 [   2028]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 22:13:18,119 [1288149]   INFO - s.incremental.java.JavaBuilder - Using javac 1.8.0_121 to compile java sources
+2017-11-25 22:13:18,120 [1288150]   INFO - s.incremental.java.JavaBuilder - Compiling 3606 java files; module: configuration
+2017-11-25 22:14:49,627 [1379657]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-25 22:14:56,690 [1386720]   INFO -                   #GosuBuilder - Filtering for excluded files took 25 msec.
+2017-11-25 22:15:01,859 [1391889]   INFO -                   #GosuBuilder - Compiling 7202 gosu files; module: configuration
+2017-11-25 22:21:05,116 [1755146]   INFO -                   #GosuBuilder - Memory usage: 2431MB
+2017-11-25 22:21:30,286 [1780316]   INFO - brains.jps.incremental.Builder - Dependency analysis found 48 affected files
+2017-11-25 22:21:54,255 [1804285]   INFO -                   #GosuBuilder - Filtering for excluded files took 0 msec.
+2017-11-25 22:21:58,144 [1808174]   INFO -                   #GosuBuilder - Compiling 48 gosu files; module: configuration
+2017-11-25 22:22:13,152 [1823182]   INFO -                   #GosuBuilder - Memory usage: 787MB
+2017-11-25 22:22:13,476 [1823506]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Studio Resource Compiler' builder took 17700 ms, 2431 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 3766 ms, 0 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Permission' builder took 2305 ms, 0 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 89762 ms, 3606 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 78211 ms, 0 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 18044 ms, 0 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Localization' builder took 734 ms, 0 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'PCF' builder took 78817 ms, 0 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 418258 ms, 7115 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 404 ms, 0 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Entity Role Constraints' builder took 174 ms, 0 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 52850 ms, 0 sources processed
+2017-11-25 22:22:15,534 [1825564]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 65 ms, 6 sources processed
+2017-11-25 22:22:17,770 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 22:22:18,497 [    727]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 667 ms
+2017-11-25 22:22:18,511 [    741]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 22:22:18,534 [    764]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 22:22:18,850 [   1080]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 317 ms
+2017-11-25 22:22:18,850 [   1080]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 22:22:18,935 [   1165]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 22:22:19,119 [   1349]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 22:22:19,123 [   1353]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 22:22:19,178 [   1408]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1410 ms
+2017-11-25 22:22:19,299 [   1529]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-25 22:22:19,305 [   1535]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-25 22:22:19,376 [   1606]   INFO - llij.util.io.PersistentHashMap - Compacting C:\work\ClaimCenter904\.idea\settings\system\compile-server\claimcenter_2b23d3bb\targets\java-production\configuration\src-out\data
+2017-11-25 22:22:19,376 [   1606]   INFO - llij.util.io.PersistentHashMap - Live keys:13152, dead keys:37062, read compaction size:3465080
+2017-11-25 22:22:19,388 [   1618]   INFO - llij.util.io.PersistentHashMap - Loaded mappings:10ms, keys:13152
+2017-11-25 22:22:19,617 [   1847]   INFO - llij.util.io.PersistentHashMap - Compacted values for:229ms fragments:21567, newfragments:13152
+2017-11-25 22:22:19,629 [   1859]   INFO - llij.util.io.PersistentHashMap - Updated mappings:11 ms
+2017-11-25 22:22:19,698 [   1928]   INFO - llij.util.io.PersistentHashMap - Compacted C:\work\ClaimCenter904\.idea\settings\system\compile-server\claimcenter_2b23d3bb\targets\java-production\configuration\src-out\data:11451943 bytes into 3758307 bytes in 322ms.
+2017-11-25 22:22:23,233 [   5463]   INFO -                   #GosuBuilder - Filtering for excluded files took 3 msec.
+2017-11-25 22:22:28,812 [  11042]   INFO -                   #GosuBuilder - Compiling 1 gosu files; module: configuration
+2017-11-25 22:22:30,010 [  12240]   INFO -                   #GosuBuilder - Memory usage: 209MB
+2017-11-25 22:22:30,087 [  12317]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-25 22:22:30,158 [  12388]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 205 ms, 0 sources processed
+2017-11-25 22:22:30,158 [  12388]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 108 ms, 0 sources processed
+2017-11-25 22:22:30,158 [  12388]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 3083 ms, 0 sources processed
+2017-11-25 22:22:30,158 [  12388]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 6930 ms, 1 sources processed
+2017-11-25 22:22:31,892 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 22:22:33,776 [   1884]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1818 ms
+2017-11-25 22:22:33,794 [   1902]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 22:22:33,822 [   1930]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 22:22:34,262 [   2370]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 440 ms
+2017-11-25 22:22:34,263 [   2371]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 22:22:34,378 [   2486]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 22:22:34,728 [   2836]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 22:22:34,735 [   2843]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 22:22:34,799 [   2907]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2908 ms
+2017-11-25 23:06:32,840 [2640948]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-11-25 23:22:55,889 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 23:22:56,516 [    627]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 568 ms
+2017-11-25 23:22:56,678 [    789]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 23:22:56,982 [   1093]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 304 ms
+2017-11-25 23:22:56,982 [   1093]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 23:22:57,061 [   1172]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 23:22:57,232 [   1343]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:22:57,236 [   1347]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:22:57,308 [   1419]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-25 23:22:57,315 [   1426]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-25 23:22:57,385 [   1496]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 23:23:07,449 [  11560]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 3636 ms, 0 sources processed
+2017-11-25 23:23:07,449 [  11560]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 84 ms, 0 sources processed
+2017-11-25 23:23:07,449 [  11560]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 626 ms, 70 sources processed
+2017-11-25 23:23:07,449 [  11560]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 94 ms, 0 sources processed
+2017-11-25 23:23:08,911 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 23:23:09,565 [    654]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 595 ms
+2017-11-25 23:23:09,576 [    665]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 23:23:09,599 [    688]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 23:23:09,912 [   1001]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 312 ms
+2017-11-25 23:23:09,912 [   1001]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 23:23:10,002 [   1091]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 23:23:10,165 [   1254]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:23:10,169 [   1258]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:23:10,213 [   1302]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1304 ms
+2017-11-25 23:23:10,302 [   1391]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-25 23:23:11,568 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 23:23:12,565 [    997]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 919 ms
+2017-11-25 23:23:12,581 [   1013]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 23:23:12,610 [   1042]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 23:23:13,351 [   1783]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 741 ms
+2017-11-25 23:23:13,351 [   1783]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 23:23:13,581 [   2013]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 23:23:13,848 [   2280]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:23:13,853 [   2285]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:23:13,915 [   2347]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2348 ms
+2017-11-25 23:36:14,870 [ 783302]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-25 23:36:16,546 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 23:36:17,233 [    687]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 612 ms
+2017-11-25 23:36:17,244 [    698]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 23:36:17,263 [    717]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 23:36:17,581 [   1035]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 318 ms
+2017-11-25 23:36:17,581 [   1035]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 23:36:17,696 [   1150]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 23:36:17,882 [   1336]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:36:17,887 [   1341]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:36:17,947 [   1401]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1402 ms
+2017-11-25 23:36:18,050 [   1504]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-25 23:36:19,349 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 23:36:20,591 [   1242]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1183 ms
+2017-11-25 23:36:20,611 [   1262]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 23:36:20,638 [   1289]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 23:36:21,107 [   1758]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 469 ms
+2017-11-25 23:36:21,108 [   1759]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 23:36:21,259 [   1910]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 23:36:21,474 [   2125]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:36:21,478 [   2129]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:36:21,579 [   2230]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2232 ms
+2017-11-25 23:49:09,828 [ 770479]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-25 23:49:11,092 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 23:49:11,839 [    747]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 681 ms
+2017-11-25 23:49:11,839 [    747]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 23:49:11,877 [    785]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 23:49:12,228 [   1136]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 351 ms
+2017-11-25 23:49:12,228 [   1136]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 23:49:12,317 [   1225]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 23:49:12,510 [   1418]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:49:12,528 [   1436]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:49:12,567 [   1475]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1475 ms
+2017-11-25 23:49:12,669 [   1577]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-25 23:49:14,327 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-25 23:49:16,563 [   2236]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2092 ms
+2017-11-25 23:49:16,583 [   2256]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-25 23:49:16,615 [   2288]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-25 23:49:17,442 [   3115]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 827 ms
+2017-11-25 23:49:17,442 [   3115]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-25 23:49:17,597 [   3270]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-25 23:49:18,014 [   3687]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:49:18,023 [   3696]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-25 23:49:18,218 [   3891]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3891 ms
+2017-11-27 10:00:14,912 [123060585]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-27 10:00:31,594 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 10:00:33,882 [   2288]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2176 ms
+2017-11-27 10:00:33,931 [   2337]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 10:00:33,982 [   2388]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 10:00:35,252 [   3658]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1270 ms
+2017-11-27 10:00:35,252 [   3658]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 10:00:35,525 [   3931]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 10:00:36,501 [   4907]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:00:36,509 [   4915]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:00:36,653 [   5059]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5060 ms
+2017-11-27 10:00:44,283 [  12689]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-27 10:01:02,896 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 10:01:03,979 [   1083]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 998 ms
+2017-11-27 10:01:03,996 [   1100]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 10:01:04,027 [   1131]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 10:01:04,501 [   1605]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 474 ms
+2017-11-27 10:01:04,501 [   1605]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 10:01:04,656 [   1760]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 10:01:04,955 [   2059]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:01:04,961 [   2065]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:01:05,042 [   2146]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2147 ms
+2017-11-27 10:11:21,929 [ 619033]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-27 10:11:23,285 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 10:11:24,012 [    727]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 665 ms
+2017-11-27 10:11:24,026 [    741]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 10:11:24,052 [    767]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 10:11:24,408 [   1123]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 356 ms
+2017-11-27 10:11:24,408 [   1123]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 10:11:24,506 [   1221]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 10:11:24,713 [   1428]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:11:24,718 [   1433]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:11:24,777 [   1492]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1494 ms
+2017-11-27 10:11:24,881 [   1596]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-27 10:11:25,999 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 10:11:27,102 [   1103]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1024 ms
+2017-11-27 10:11:27,119 [   1120]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 10:11:27,149 [   1150]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 10:11:27,628 [   1629]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 479 ms
+2017-11-27 10:11:27,628 [   1629]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 10:11:27,788 [   1789]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 10:11:28,037 [   2038]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:11:28,043 [   2044]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:11:28,115 [   2116]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2117 ms
+2017-11-27 10:55:46,521 [2660522]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-27 10:55:46,538 [2660539]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-27 10:55:55,067 [2669068]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 225 ms, 0 sources processed
+2017-11-27 10:55:55,067 [2669068]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 105 ms, 0 sources processed
+2017-11-27 10:55:55,067 [2669068]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 6346 ms, 0 sources processed
+2017-11-27 10:55:55,067 [2669068]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 621 ms, 51 sources processed
+2017-11-27 10:55:55,068 [2669069]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 62 ms, 0 sources processed
+2017-11-27 10:55:56,699 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 10:55:57,533 [    834]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 757 ms
+2017-11-27 10:55:57,547 [    848]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 10:55:57,571 [    872]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 10:55:57,983 [   1284]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 412 ms
+2017-11-27 10:55:57,983 [   1284]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 10:55:58,096 [   1397]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 10:55:58,350 [   1651]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:55:58,354 [   1655]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:55:58,406 [   1707]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1709 ms
+2017-11-27 10:55:58,507 [   1808]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-27 10:55:59,736 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 10:56:00,910 [   1175]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1088 ms
+2017-11-27 10:56:00,994 [   1259]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 10:56:01,050 [   1315]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 10:56:01,776 [   2041]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 726 ms
+2017-11-27 10:56:01,776 [   2041]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 10:56:01,970 [   2235]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 10:56:02,296 [   2561]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:56:02,308 [   2573]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 10:56:02,412 [   2677]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2678 ms
+2017-11-27 11:04:43,278 [ 523543]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-27 11:04:43,294 [ 523559]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-27 11:04:56,818 [ 537083]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 211 ms, 0 sources processed
+2017-11-27 11:04:56,818 [ 537083]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 91 ms, 0 sources processed
+2017-11-27 11:04:56,818 [ 537083]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 62 ms, 0 sources processed
+2017-11-27 11:04:56,818 [ 537083]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 363 ms, 0 sources processed
+2017-11-27 11:04:56,819 [ 537084]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 10978 ms, 0 sources processed
+2017-11-27 11:04:56,819 [ 537084]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 613 ms, 9 sources processed
+2017-11-27 11:05:02,042 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 11:05:03,433 [   1392]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1229 ms
+2017-11-27 11:05:03,456 [   1415]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 11:05:03,490 [   1449]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 11:05:04,644 [   2603]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1155 ms
+2017-11-27 11:05:04,644 [   2603]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 11:05:04,821 [   2780]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 11:05:05,077 [   3036]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:05:05,083 [   3042]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:05:05,162 [   3121]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3122 ms
+2017-11-27 11:05:11,433 [   9392]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-27 11:05:17,069 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 11:05:18,381 [   1312]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1174 ms
+2017-11-27 11:05:18,407 [   1338]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 11:05:18,438 [   1369]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 11:05:19,065 [   1996]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 627 ms
+2017-11-27 11:05:19,065 [   1996]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 11:05:19,272 [   2203]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 11:05:19,665 [   2596]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:05:19,679 [   2610]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:05:19,840 [   2771]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2773 ms
+2017-11-27 11:12:54,543 [ 457474]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-27 11:13:01,369 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 11:13:03,336 [   1967]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1886 ms
+2017-11-27 11:13:03,360 [   1991]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 11:13:03,399 [   2030]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 11:13:04,087 [   2718]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 688 ms
+2017-11-27 11:13:04,088 [   2719]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 11:13:04,267 [   2898]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 11:13:04,883 [   3514]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:13:04,926 [   3557]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:13:05,205 [   3836]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3837 ms
+2017-11-27 11:13:09,332 [   7963]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-27 11:13:25,201 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 11:13:26,889 [   1688]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1584 ms
+2017-11-27 11:13:26,911 [   1710]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 11:13:26,956 [   1755]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 11:13:27,775 [   2574]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 820 ms
+2017-11-27 11:13:27,776 [   2575]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 11:13:27,956 [   2755]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 11:13:28,366 [   3165]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:13:28,373 [   3172]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:13:28,499 [   3298]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3300 ms
+2017-11-27 11:21:18,537 [ 473336]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-27 11:21:18,552 [ 473351]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-27 11:21:22,669 [ 477468]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 98 ms, 0 sources processed
+2017-11-27 11:21:22,669 [ 477468]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 55 ms, 0 sources processed
+2017-11-27 11:21:22,669 [ 477468]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 102 ms, 0 sources processed
+2017-11-27 11:21:22,669 [ 477468]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 3358 ms, 0 sources processed
+2017-11-27 11:21:22,669 [ 477468]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 283 ms, 0 sources processed
+2017-11-27 11:21:22,669 [ 477468]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 7 ms, 1 sources processed
+2017-11-27 11:21:24,476 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 11:21:26,297 [   1821]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1743 ms
+2017-11-27 11:21:26,328 [   1852]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 11:21:26,371 [   1895]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 11:21:27,083 [   2607]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 712 ms
+2017-11-27 11:21:27,083 [   2607]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 11:21:27,272 [   2796]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 11:21:27,778 [   3302]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:21:27,778 [   3302]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:21:27,865 [   3389]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3389 ms
+2017-11-27 11:21:27,989 [   3513]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-27 11:21:41,438 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-27 11:21:42,662 [   1225]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1140 ms
+2017-11-27 11:21:42,787 [   1350]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-27 11:21:42,832 [   1395]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-27 11:21:43,695 [   2258]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 863 ms
+2017-11-27 11:21:43,696 [   2259]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-27 11:21:43,990 [   2553]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-27 11:21:45,022 [   3585]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:21:45,029 [   3592]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-27 11:21:45,163 [   3726]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3727 ms
+2017-11-29 20:31:26,900 [205785463]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-29 20:31:26,923 [205785486]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-29 20:31:41,870 [205800433]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 332 ms, 0 sources processed
+2017-11-29 20:31:41,870 [205800433]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 141 ms, 0 sources processed
+2017-11-29 20:31:41,870 [205800433]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 38 ms, 3 sources processed
+2017-11-29 20:31:41,870 [205800433]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 13681 ms, 0 sources processed
+2017-11-29 20:31:41,870 [205800433]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 324 ms, 0 sources processed
+2017-11-29 20:31:49,911 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-29 20:31:50,709 [    798]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 737 ms
+2017-11-29 20:31:50,741 [    830]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-29 20:31:50,767 [    856]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-29 20:31:51,156 [   1245]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 389 ms
+2017-11-29 20:31:51,156 [   1245]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-29 20:31:51,261 [   1350]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-29 20:31:51,507 [   1596]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 20:31:51,513 [   1602]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 20:31:51,577 [   1666]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1667 ms
+2017-11-29 20:31:51,683 [   1772]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-29 20:31:52,918 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-29 20:31:53,715 [    797]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 726 ms
+2017-11-29 20:31:53,729 [    811]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-29 20:31:53,757 [    839]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-29 20:31:54,129 [   1211]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 372 ms
+2017-11-29 20:31:54,129 [   1211]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-29 20:31:54,226 [   1308]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-29 20:31:54,724 [   1806]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 20:31:54,740 [   1822]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 20:31:54,839 [   1921]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1922 ms
+2017-11-29 22:21:58,146 [6605228]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-29 22:21:58,173 [6605255]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-29 22:22:04,541 [6611623]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 33 ms, 1 sources processed
+2017-11-29 22:22:04,542 [6611624]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 4574 ms, 0 sources processed
+2017-11-29 22:22:04,542 [6611624]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 485 ms, 0 sources processed
+2017-11-29 22:22:04,542 [6611624]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 389 ms, 0 sources processed
+2017-11-29 22:22:04,542 [6611624]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 72 ms, 0 sources processed
+2017-11-29 22:22:04,542 [6611624]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 85 ms, 0 sources processed
+2017-11-29 22:22:06,498 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-29 22:22:07,629 [   1131]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1075 ms
+2017-11-29 22:22:07,652 [   1154]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-29 22:22:07,684 [   1186]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-29 22:22:08,390 [   1892]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 706 ms
+2017-11-29 22:22:08,390 [   1892]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-29 22:22:08,531 [   2033]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-29 22:22:08,896 [   2398]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:22:08,904 [   2406]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:22:09,010 [   2512]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2514 ms
+2017-11-29 22:22:09,183 [   2685]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-29 22:22:10,822 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-29 22:22:12,825 [   2003]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1949 ms
+2017-11-29 22:22:12,843 [   2021]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-29 22:22:12,925 [   2103]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-29 22:22:13,976 [   3154]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1051 ms
+2017-11-29 22:22:13,976 [   3154]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-29 22:22:14,235 [   3413]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-29 22:22:14,882 [   4060]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:22:14,896 [   4074]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:22:15,081 [   4259]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 4260 ms
+2017-11-29 22:32:01,934 [ 591112]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-29 22:32:01,947 [ 591125]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-29 22:32:07,152 [ 596330]   INFO -                   #GosuBuilder - Filtering for excluded files took 3 msec.
+2017-11-29 22:32:13,777 [ 602955]   INFO -                   #GosuBuilder - Compiling 1 gosu files; module: configuration
+2017-11-29 22:32:19,223 [ 608401]   INFO -                   #GosuBuilder - Memory usage: 232MB
+2017-11-29 22:32:19,429 [ 608607]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-29 22:32:19,903 [ 609081]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 3942 ms, 0 sources processed
+2017-11-29 22:32:19,904 [ 609082]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 415 ms, 0 sources processed
+2017-11-29 22:32:19,904 [ 609082]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 218 ms, 0 sources processed
+2017-11-29 22:32:19,904 [ 609082]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 101 ms, 0 sources processed
+2017-11-29 22:32:19,904 [ 609082]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 25 ms, 1 sources processed
+2017-11-29 22:32:19,904 [ 609082]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 12676 ms, 1 sources processed
+2017-11-29 22:32:21,992 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-29 22:32:23,320 [   1328]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1237 ms
+2017-11-29 22:32:23,334 [   1342]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-29 22:32:23,357 [   1365]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-29 22:32:23,766 [   1774]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 409 ms
+2017-11-29 22:32:23,766 [   1774]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-29 22:32:23,899 [   1907]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-29 22:32:24,152 [   2160]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:32:24,158 [   2166]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:32:24,236 [   2244]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2245 ms
+2017-11-29 22:37:47,495 [ 325503]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-29 22:37:47,508 [ 325516]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-29 22:37:52,652 [ 330660]   INFO -                   #GosuBuilder - Filtering for excluded files took 4 msec.
+2017-11-29 22:37:58,719 [ 336727]   INFO -                   #GosuBuilder - Compiling 1 gosu files; module: configuration
+2017-11-29 22:38:04,660 [ 342668]   INFO -                   #GosuBuilder - Memory usage: 223MB
+2017-11-29 22:38:04,832 [ 342840]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-29 22:38:05,064 [ 343072]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 4061 ms, 0 sources processed
+2017-11-29 22:38:05,065 [ 343073]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 298 ms, 0 sources processed
+2017-11-29 22:38:05,065 [ 343073]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 172 ms, 0 sources processed
+2017-11-29 22:38:05,065 [ 343073]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 247 ms, 0 sources processed
+2017-11-29 22:38:05,065 [ 343073]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 12374 ms, 1 sources processed
+2017-11-29 22:38:07,409 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-29 22:38:08,370 [    961]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 886 ms
+2017-11-29 22:38:08,387 [    978]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-29 22:38:08,416 [   1007]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-29 22:38:08,854 [   1445]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 438 ms
+2017-11-29 22:38:08,854 [   1445]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-29 22:38:09,015 [   1606]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-29 22:38:09,258 [   1849]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:38:09,262 [   1853]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:38:09,328 [   1919]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1920 ms
+2017-11-29 22:56:48,554 [1121145]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-29 22:56:48,602 [1121193]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-29 22:56:53,048 [1125639]   INFO -                   #GosuBuilder - Filtering for excluded files took 8 msec.
+2017-11-29 22:56:59,138 [1131729]   INFO -                   #GosuBuilder - Compiling 1 gosu files; module: configuration
+2017-11-29 22:57:05,346 [1137937]   INFO -                   #GosuBuilder - Memory usage: 225MB
+2017-11-29 22:57:05,560 [1138151]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-29 22:57:05,862 [1138453]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 140 ms, 0 sources processed
+2017-11-29 22:57:05,862 [1138453]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 135 ms, 0 sources processed
+2017-11-29 22:57:05,862 [1138453]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 308 ms, 0 sources processed
+2017-11-29 22:57:05,862 [1138453]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 3577 ms, 0 sources processed
+2017-11-29 22:57:05,862 [1138453]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 12808 ms, 1 sources processed
+2017-11-29 22:57:08,394 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-29 22:57:09,335 [    941]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 879 ms
+2017-11-29 22:57:09,347 [    953]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-29 22:57:09,370 [    976]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-29 22:57:09,862 [   1468]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 492 ms
+2017-11-29 22:57:09,862 [   1468]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-29 22:57:10,005 [   1611]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-29 22:57:10,215 [   1821]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:57:10,219 [   1825]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 22:57:10,281 [   1887]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1888 ms
+2017-11-29 23:06:33,061 [ 564667]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-29 23:06:33,067 [ 564673]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-29 23:06:38,716 [ 570322]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 13 ms, 1 sources processed
+2017-11-29 23:06:38,716 [ 570322]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 797 ms, 0 sources processed
+2017-11-29 23:06:38,716 [ 570322]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 163 ms, 0 sources processed
+2017-11-29 23:06:38,716 [ 570322]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 4267 ms, 0 sources processed
+2017-11-29 23:06:38,716 [ 570322]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 87 ms, 0 sources processed
+2017-11-29 23:06:40,597 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-29 23:06:41,731 [   1134]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1036 ms
+2017-11-29 23:06:41,743 [   1146]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-29 23:06:41,772 [   1175]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-29 23:06:42,195 [   1598]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 423 ms
+2017-11-29 23:06:42,195 [   1598]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-29 23:06:42,289 [   1692]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-29 23:06:42,480 [   1883]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 23:06:42,491 [   1894]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 23:06:42,552 [   1955]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1957 ms
+2017-11-29 23:06:42,679 [   2082]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-11-29 23:06:44,349 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-29 23:06:45,765 [   1416]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1312 ms
+2017-11-29 23:06:45,806 [   1457]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-29 23:06:45,845 [   1496]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-29 23:06:46,772 [   2423]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 927 ms
+2017-11-29 23:06:46,773 [   2424]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-29 23:06:46,961 [   2612]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-29 23:06:47,316 [   2967]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 23:06:47,324 [   2975]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-29 23:06:47,408 [   3059]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3060 ms
+2017-11-30 17:53:59,463 [67635114]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-30 17:53:59,494 [67635145]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-30 17:54:14,686 [67650337]   INFO -                   #GosuBuilder - Filtering for excluded files took 8 msec.
+2017-11-30 17:54:26,787 [67662438]   INFO -                   #GosuBuilder - Compiling 1 gosu files; module: configuration
+2017-11-30 17:54:28,583 [67664234]   INFO -                   #GosuBuilder - Memory usage: 216MB
+2017-11-30 17:54:28,778 [67664429]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-30 17:54:29,074 [67664725]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 330 ms, 0 sources processed
+2017-11-30 17:54:29,074 [67664725]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 13497 ms, 0 sources processed
+2017-11-30 17:54:29,074 [67664725]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 454 ms, 0 sources processed
+2017-11-30 17:54:29,074 [67664725]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 97 ms, 0 sources processed
+2017-11-30 17:54:29,074 [67664725]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 14610 ms, 1 sources processed
+2017-11-30 17:54:38,541 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-30 17:54:39,718 [   1177]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1075 ms
+2017-11-30 17:54:39,766 [   1225]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-30 17:54:39,794 [   1253]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-30 17:54:40,314 [   1773]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 519 ms
+2017-11-30 17:54:40,314 [   1773]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-30 17:54:40,482 [   1941]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-30 17:54:40,853 [   2312]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-30 17:54:40,860 [   2319]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-30 17:54:40,939 [   2398]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2400 ms
+2017-11-30 18:00:47,877 [ 369336]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-30 18:00:47,897 [ 369356]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-30 18:00:53,064 [ 374523]   INFO -                   #GosuBuilder - Filtering for excluded files took 3 msec.
+2017-11-30 18:01:00,201 [ 381660]   INFO -                   #GosuBuilder - Compiling 1 gosu files; module: configuration
+2017-11-30 18:01:07,920 [ 389379]   INFO -                   #GosuBuilder - Memory usage: 223MB
+2017-11-30 18:01:08,037 [ 389496]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-30 18:01:08,185 [ 389644]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 15107 ms, 1 sources processed
+2017-11-30 18:01:08,185 [ 389644]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 240 ms, 0 sources processed
+2017-11-30 18:01:08,186 [ 389645]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 283 ms, 0 sources processed
+2017-11-30 18:01:08,186 [ 389645]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 120 ms, 0 sources processed
+2017-11-30 18:01:08,186 [ 389645]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 4168 ms, 0 sources processed
+2017-11-30 18:01:10,057 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-30 18:01:11,647 [   1590]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1415 ms
+2017-11-30 18:01:11,669 [   1612]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-30 18:01:11,707 [   1650]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-30 18:01:12,462 [   2405]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 755 ms
+2017-11-30 18:01:12,463 [   2406]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-30 18:01:12,630 [   2573]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-30 18:01:12,979 [   2922]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-30 18:01:12,988 [   2931]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-30 18:01:13,087 [   3030]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3031 ms
+2017-11-30 18:08:29,104 [ 439047]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-30 18:08:29,117 [ 439060]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-30 18:08:34,730 [ 444673]   INFO -                   #GosuBuilder - Filtering for excluded files took 3 msec.
+2017-11-30 18:08:45,294 [ 455237]   INFO -                   #GosuBuilder - Compiling 1 gosu files; module: configuration
+2017-11-30 18:08:54,036 [ 463979]   INFO -                   #GosuBuilder - Memory usage: 227MB
+2017-11-30 18:08:54,165 [ 464108]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-30 18:08:54,390 [ 464333]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 19622 ms, 1 sources processed
+2017-11-30 18:08:54,390 [ 464333]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 189 ms, 0 sources processed
+2017-11-30 18:08:54,390 [ 464333]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 369 ms, 0 sources processed
+2017-11-30 18:08:54,390 [ 464333]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 110 ms, 0 sources processed
+2017-11-30 18:08:54,390 [ 464333]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 4666 ms, 0 sources processed
+2017-11-30 18:08:56,506 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-30 18:08:57,710 [   1204]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1122 ms
+2017-11-30 18:08:57,738 [   1232]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-30 18:08:57,770 [   1264]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-30 18:08:58,550 [   2044]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 780 ms
+2017-11-30 18:08:58,551 [   2045]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-30 18:08:58,843 [   2337]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-30 18:08:59,107 [   2601]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-30 18:08:59,112 [   2606]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-30 18:08:59,331 [   2825]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2826 ms
+2017-11-30 18:14:18,454 [ 321948]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-11-30 18:14:18,467 [ 321961]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-11-30 18:14:24,344 [ 327838]   INFO -                   #GosuBuilder - Filtering for excluded files took 4 msec.
+2017-11-30 18:14:32,138 [ 335632]   INFO -                   #GosuBuilder - Compiling 1 gosu files; module: configuration
+2017-11-30 18:14:37,664 [ 341158]   INFO -                   #GosuBuilder - Memory usage: 223MB
+2017-11-30 18:14:37,785 [ 341279]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-11-30 18:14:37,940 [ 341434]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 168 ms, 0 sources processed
+2017-11-30 18:14:37,940 [ 341434]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 647 ms, 0 sources processed
+2017-11-30 18:14:37,940 [ 341434]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 94 ms, 0 sources processed
+2017-11-30 18:14:37,940 [ 341434]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 13608 ms, 1 sources processed
+2017-11-30 18:14:37,940 [ 341434]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 4703 ms, 0 sources processed
+2017-11-30 18:14:40,216 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-11-30 18:14:41,773 [   1557]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1454 ms
+2017-11-30 18:14:41,794 [   1578]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-11-30 18:14:41,829 [   1613]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-11-30 18:14:42,335 [   2119]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 506 ms
+2017-11-30 18:14:42,335 [   2119]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-11-30 18:14:42,496 [   2280]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-11-30 18:14:42,785 [   2569]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-30 18:14:42,792 [   2576]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-11-30 18:14:42,882 [   2666]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2668 ms
+2017-12-01 09:40:38,766 [55558550]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-12-01 09:59:45,726 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-12-01 09:59:47,505 [   1779]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1669 ms
+2017-12-01 09:59:47,831 [   2105]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-12-01 09:59:48,519 [   2793]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 688 ms
+2017-12-01 09:59:48,520 [   2794]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-12-01 09:59:48,687 [   2961]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-12-01 09:59:49,434 [   3708]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-01 09:59:49,440 [   3714]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-01 09:59:49,595 [   3869]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-12-01 09:59:49,604 [   3878]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-12-01 09:59:49,825 [   4099]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-12-01 10:00:30,119 [  44393]   INFO -                   #GosuBuilder - Filtering for excluded files took 6 msec.
+2017-12-01 10:00:50,626 [  64900]   INFO -                   #GosuBuilder - Compiling 1 gosu files; module: configuration
+2017-12-01 10:01:04,245 [  78519]   INFO -                   #GosuBuilder - Memory usage: 216MB
+2017-12-01 10:01:04,439 [  78713]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-12-01 10:01:04,587 [  78861]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Display Key' builder took 605 ms, 0 sources processed
+2017-12-01 10:01:04,587 [  78861]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 138 ms, 0 sources processed
+2017-12-01 10:01:04,587 [  78861]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 24215 ms, 0 sources processed
+2017-12-01 10:01:04,588 [  78862]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 34430 ms, 1 sources processed
+2017-12-01 10:01:04,588 [  78862]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 80 ms, 0 sources processed
+2017-12-01 10:01:07,203 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-12-01 10:01:08,399 [   1196]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1094 ms
+2017-12-01 10:01:08,421 [   1218]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-12-01 10:01:08,451 [   1248]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-12-01 10:01:09,104 [   1901]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 653 ms
+2017-12-01 10:01:09,104 [   1901]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-12-01 10:01:09,279 [   2076]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-12-01 10:01:10,057 [   2854]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-01 10:01:10,068 [   2865]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-01 10:01:10,267 [   3064]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3068 ms
+2017-12-01 10:01:12,181 [   4978]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-12-01 10:01:28,390 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-12-01 10:01:30,431 [   2042]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1837 ms
+2017-12-01 10:01:30,453 [   2064]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-12-01 10:01:30,497 [   2108]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-12-01 10:01:31,566 [   3177]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1069 ms
+2017-12-01 10:01:31,566 [   3177]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-12-01 10:01:31,781 [   3392]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-12-01 10:01:32,218 [   3829]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-01 10:01:32,226 [   3837]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-01 10:01:32,328 [   3939]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3940 ms
+2017-12-19 18:04:37,880 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-12-19 18:04:39,320 [   1440]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1347 ms
+2017-12-19 18:04:39,579 [   1699]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-12-19 18:04:40,546 [   2666]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 967 ms
+2017-12-19 18:04:40,546 [   2666]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-12-19 18:04:40,675 [   2795]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-12-19 18:04:41,325 [   3445]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-19 18:04:41,331 [   3451]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-19 18:04:41,468 [   3588]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-12-19 18:04:41,480 [   3600]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-12-19 18:04:41,844 [   3964]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-12-19 18:05:06,485 [  28605]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Xml' builder took 19287 ms, 0 sources processed
+2017-12-19 18:05:06,488 [  28608]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Metadata' builder took 125 ms, 0 sources processed
+2017-12-19 18:05:06,488 [  28608]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Gosu compiler' builder took 72 ms, 0 sources processed
+2017-12-19 18:05:06,488 [  28608]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Hacky builder to replace Java mappings with Gosu ones' builder took 62 ms, 0 sources processed
+2017-12-19 18:05:09,037 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-12-19 18:05:09,994 [    957]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 880 ms
+2017-12-19 18:05:10,138 [   1101]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2017-12-19 18:05:12,212 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar
+2017-12-19 18:05:13,692 [   1480]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1426 ms
+2017-12-19 18:05:13,709 [   1497]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-12-19 18:05:13,740 [   1528]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/work/ClaimCenter904, global options path = C:/work/ClaimCenter904/.idea/settings/config/options
+2017-12-19 18:05:14,450 [   2238]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 710 ms
+2017-12-19 18:05:14,450 [   2238]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-12-19 18:05:14,599 [   2387]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=12142510080
+2017-12-19 18:05:14,938 [   2726]   INFO - ps.incremental.BuilderRegistry - gw.gosu.ij.compiler.GosuMappingsReplacer builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-19 18:05:14,945 [   2733]   INFO - ps.incremental.BuilderRegistry - com.guidewire.studio.compiler.resources.ResourceBuilder builder returns 'null' from 'getCompilableFileExtensions' method so files for module-level builders won't be filtered
+2017-12-19 18:05:15,039 [   2827]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2828 ms

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GosuCompilerClasspath">
+    <classpath>
+      
+      <entry>C:\work\ClaimCenter904\repository\org\gosu-lang\gosu\gosu-core\1.13.16\gosu-core-1.13.16.jar</entry>
+      
+      <entry>C:\work\ClaimCenter904\repository\org\gosu-lang\gosu\gosu-core-api\1.13.16\gosu-core-api-1.13.16.jar</entry>
+      
+      <entry>C:\work\ClaimCenter904\repository\org\gosu-lang\gosu\managed\gw-asm-all\5.0.4\gw-asm-all-5.0.4.jar</entry>
+      
+      <entry>C:\work\ClaimCenter904\repository\org\gosu-lang\gosu\managed\gw-jcommander\1.48\gw-jcommander-1.48.jar</entry>
+      
+      <entry>C:\work\java\jdk1.8.0_121\lib\tools.jar</entry>
+    </classpath>
+  </component>
+</project>
+

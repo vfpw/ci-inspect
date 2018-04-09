@@ -1,0 +1,1338 @@
+2017-11-25 19:21:39,375 [   1188]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-11-25 19:21:39,459 [   1272]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-1.0, 31 Dec 0002 00:00) 
+2017-11-25 19:21:39,459 [   1272]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-11-25 19:21:39,459 [   1272]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_121-b13 (Oracle Corporation) 
+2017-11-25 19:21:39,459 [   1272]   INFO -        #com.intellij.idea.Main - JVM: 25.71-b01-dcevmlight-2 (Dynamic Code Evolution 64-Bit Server VM) 
+2017-11-25 19:21:39,459 [   1272]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=64m -ea -Didea.properties.file=C:/work/ClaimCenter904/.idea/settings/idea.properties -Dstudio.sdkroot=C:/work/ClaimCenter904 -Didea.plugins.compatible.build=143.2370.31 -Dstudio.minimum.preferred.idea.version=143.2370 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -Dapple.laf.useScreenMenuBar=true -Dapple.awt.application.name=Guidewire Studio -Didea.platform.prefix=Studio -Xmx4g 
+2017-11-25 19:21:39,459 [   1272]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-11-25 19:21:39,567 [   1380]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 108 ms 
+2017-11-25 19:21:39,614 [   1427]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-11-25 19:21:39,655 [   1468]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-11-25 19:21:47,390 [   9203]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2017-11-25 19:21:49,501 [  11314]   INFO - llij.ide.plugins.PluginManager - 32 plugins initialized in 5644 ms 
+2017-11-25 19:21:49,509 [  11322]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Git Integration (8.1), GitHub (143.2370.31), Gradle (143.2370.31), Groovy (9.0), I18n for Java (143.2370.31), IDEA CORE (143.SNAPSHOT), JUnit (1.0), Properties Support (143.SNAPSHOT), Terminal (0.1) 
+2017-11-25 19:21:49,509 [  11322]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Gosu (1.1.11-rc-SNAPSHOT), Guidewire Studio (1.1.11-rc-SNAPSHOT) 
+2017-11-25 19:21:49,509 [  11322]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.1.3.0), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (143.SNAPSHOT), Eclipse Integration (3.0), EditorConfig (1.0), IntelliLang (8.0), JavaFX (1.0), Kotlin (1.0.1-release-IJ143-40), Maven Integration (143.2370.31), Plugin DevKit (1.0), Settings Repository (143.2370.31), Subversion Integration (1.1), Task Management (1.0), TestNG-J (8.0), UI Designer (143.2370.31), XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2017-11-25 19:21:58,301 [  20114]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\work\ClaimCenter904\.idea\settings\system\caches\names.dat' does not exist 
+2017-11-25 19:21:58,317 [  20130]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=4130865152 
+2017-11-25 19:21:58,435 [  20248]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\work\ClaimCenter904\studio\sdk\bin\fsnotifier64.exe 
+2017-11-25 19:21:58,476 [  20289]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-11-25 19:21:59,999 [  21812]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2017-11-25 19:21:59,999 [  21812]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2017-11-25 19:22:04,417 [  26230]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2017-11-25 19:22:11,161 [  32974]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = C:/work/ClaimCenter904/studio/sdk/lib/idea.jar!/resources/html5-schema/html5.rnc 
+2017-11-25 19:22:11,161 [  32974]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = C:/work/ClaimCenter904/studio/sdk/lib/idea.jar!/resources/html5-schema/xhtml5.rnc 
+2017-11-25 19:22:11,161 [  32974]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = C:/work/ClaimCenter904/studio/sdk/lib/idea.jar!/resources/html5-schema/html5chars.ent 
+2017-11-25 19:22:12,038 [  33851]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 861 ms 
+2017-11-25 19:22:12,038 [  33851]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2017-11-25 19:22:13,607 [  35420]   INFO - plication.impl.ApplicationImpl - 80 application components initialized in 29754 ms 
+2017-11-25 19:22:13,654 [  35467]   INFO - .intellij.idea.IdeaApplication - App initialization took 39816 ms 
+2017-11-25 19:22:13,725 [  35538]   INFO - ateSettings.impl.UpdateChecker - Connection failed (no protocol: ?os=Windows+10+10.0&build=Studio-1.0&uid=aaea98c7-9817-4895-ab32-98696b9dee89). Please check network connection and try again. 
+2017-11-25 19:22:19,610 [  41423]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2017-11-25 19:22:23,376 [  45189]   INFO - ellij.project.impl.ProjectImpl - 125 project components initialized in 8292 ms 
+2017-11-25 19:22:24,570 [  46383]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 1194 ms 
+2017-11-25 19:22:29,873 [  51686]   INFO - .studio.init.StudioEnvironment - Minimum preferred build of IDEA is 143.2370 
+2017-11-25 19:22:29,873 [  51686]   INFO - .studio.init.StudioEnvironment - Most recently tested IDEA build is 143.2370.31 
+2017-11-25 19:22:29,873 [  51686]   INFO - .studio.init.StudioEnvironment - Currently running IDEA build 143.2370 
+2017-11-25 19:22:31,865 [  53678]   INFO - tartup.impl.StartupManagerImpl - C:/work/ClaimCenter904/.idea/misc.xml case-sensitivity: false 
+2017-11-25 19:22:35,035 [  56848]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 20461 ms 
+2017-11-25 19:23:01,704 [  83517]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 26627ms; general responsiveness: 1/31 sluggish, 6/31 very slow; EDT responsiveness: ok 
+2017-11-25 19:23:59,107 [ 140920]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 57403ms; general responsiveness: ok; EDT responsiveness: 2/56 sluggish, 2/56 very slow 
+2017-11-25 19:23:59,200 [ 141013]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 174672 files to update 
+2017-11-25 19:24:55,820 [ 197633]   INFO - ellij.vfs.persistent.FSRecords - Contents:16384 of 91797336, reuses:54 of 1602924 for 794 
+2017-11-25 19:25:27,789 [ 229602]   INFO - ellij.vfs.persistent.FSRecords - Contents:32768 of 208325296, reuses:1995 of 10345784 for 1740 
+2017-11-25 19:26:17,039 [ 278852]   INFO - ellij.vfs.persistent.FSRecords - Contents:49152 of 351377116, reuses:8464 of 66876244 for 2917 
+2017-11-25 19:27:36,640 [ 358453]   INFO - ellij.vfs.persistent.FSRecords - Contents:65536 of 428382303, reuses:14232 of 108391978 for 3574 
+2017-11-25 19:28:09,067 [ 390880]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 249867ms; general responsiveness: 3/246 sluggish, 1/246 very slow; EDT responsiveness: ok 
+2017-11-25 19:28:31,528 [ 413341]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-11-25 19:28:31,557 [ 413370]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-11-25 19:28:32,296 [ 414109]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-11-25 19:28:32,296 [ 414109]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-11-25 19:28:32,296 [ 414109]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-11-25 19:28:32,327 [ 414140]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-11-25 19:28:32,609 [ 414422]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-11-25 19:28:32,609 [ 414422]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-11-25 19:28:55,669 [   1237]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-11-25 19:28:55,737 [   1305]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-1.0, 31 Dec 0002 00:00) 
+2017-11-25 19:28:55,737 [   1305]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-11-25 19:28:55,753 [   1321]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_121-b13 (Oracle Corporation) 
+2017-11-25 19:28:55,753 [   1321]   INFO -        #com.intellij.idea.Main - JVM: 25.71-b01-dcevmlight-2 (Dynamic Code Evolution 64-Bit Server VM) 
+2017-11-25 19:28:55,753 [   1321]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=64m -ea -Didea.properties.file=C:/work/ClaimCenter904/.idea/settings/idea.properties -Dstudio.sdkroot=C:/work/ClaimCenter904 -Didea.plugins.compatible.build=143.2370.31 -Dstudio.minimum.preferred.idea.version=143.2370 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -Dapple.laf.useScreenMenuBar=true -Dapple.awt.application.name=Guidewire Studio -Didea.platform.prefix=Studio -Xmx4g 
+2017-11-25 19:28:55,753 [   1321]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-11-25 19:28:55,853 [   1421]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 100 ms 
+2017-11-25 19:28:55,853 [   1421]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-11-25 19:28:55,853 [   1421]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-11-25 19:28:58,371 [   3939]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2017-11-25 19:28:59,689 [   5257]   INFO - llij.ide.plugins.PluginManager - 34 plugins initialized in 2144 ms 
+2017-11-25 19:28:59,709 [   5277]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Git Integration (8.1), GitHub (143.2370.31), Gradle (143.2370.31), Groovy (9.0), I18n for Java (143.2370.31), IDEA CORE (143.SNAPSHOT), JUnit (1.0), Properties Support (143.SNAPSHOT), Terminal (0.1) 
+2017-11-25 19:28:59,709 [   5277]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Gosu (1.1.13-rc-SNAPSHOT), Gosu Inspections Plugin (1.1.13-rc-SNAPSHOT), Guidewire Services Best Practices (1.1.13-rc-SNAPSHOT), Guidewire Studio (1.1.13-rc-SNAPSHOT) 
+2017-11-25 19:28:59,709 [   5277]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.1.3.0), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (143.SNAPSHOT), Eclipse Integration (3.0), EditorConfig (1.0), IntelliLang (8.0), JavaFX (1.0), Kotlin (1.0.1-release-IJ143-40), Maven Integration (143.2370.31), Plugin DevKit (1.0), Settings Repository (143.2370.31), Subversion Integration (1.1), Task Management (1.0), TestNG-J (8.0), UI Designer (143.2370.31), XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2017-11-25 19:29:00,713 [   6281]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=4130865152 
+2017-11-25 19:29:00,827 [   6395]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\work\ClaimCenter904\studio\sdk\bin\fsnotifier64.exe 
+2017-11-25 19:29:00,859 [   6427]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-11-25 19:29:02,930 [   8498]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2017-11-25 19:29:04,054 [   9622]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index Guidewire.Metadata.Index. The index will be rebuilt. 
+2017-11-25 19:29:05,530 [  11098]   INFO - plication.impl.ApplicationImpl - 80 application components initialized in 7985 ms 
+2017-11-25 19:29:05,592 [  11160]   INFO - .intellij.idea.IdeaApplication - App initialization took 12558 ms 
+2017-11-25 19:29:05,623 [  11191]   INFO - ateSettings.impl.UpdateChecker - Connection failed (no protocol: ?os=Windows+10+10.0&build=Studio-1.0&uid=aaea98c7-9817-4895-ab32-98696b9dee89). Please check network connection and try again. 
+2017-11-25 19:29:08,693 [  14261]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2017-11-25 19:29:09,253 [  14821]   INFO - ellij.project.impl.ProjectImpl - 126 project components initialized in 2155 ms 
+2017-11-25 19:29:09,576 [  15144]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 323 ms 
+2017-11-25 19:29:15,025 [  20593]   INFO - .studio.init.StudioEnvironment - Minimum preferred build of IDEA is 143.2370 
+2017-11-25 19:29:15,025 [  20593]   INFO - .studio.init.StudioEnvironment - Most recently tested IDEA build is 143.2370.31 
+2017-11-25 19:29:15,025 [  20593]   INFO - .studio.init.StudioEnvironment - Currently running IDEA build 143.2370 
+2017-11-25 19:29:16,830 [  22398]   INFO - tartup.impl.StartupManagerImpl - C:/work/ClaimCenter904/.idea/misc.xml case-sensitivity: false 
+2017-11-25 19:29:19,893 [  25461]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 12895 ms 
+2017-11-25 19:29:20,434 [  26002]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 529ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-25 19:29:27,019 [  32587]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 6552ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-25 19:29:27,019 [  32587]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 1719 files to update 
+2017-11-25 19:29:29,048 [  34616]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 2029ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-25 19:39:26,314 [ 631882]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 7 ms 
+2017-11-25 19:39:29,232 [ 634800]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 19:39:31,592 [ 637160]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 19:40:02,259 [ 667827]   INFO - s.impl.ProjectManagerComponent - project roots have changed 
+2017-11-25 19:40:02,601 [ 668169]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 142ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-25 19:40:03,881 [ 669449]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1280ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-25 19:42:16,521 [ 802089]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 70.367s. 
+2017-11-25 19:44:16,126 [ 921694]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 119.607s. 
+2017-11-25 19:44:19,801 [ 925369]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 3.675s. 
+2017-11-25 19:44:21,355 [ 926923]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 1.554s. 
+2017-11-25 19:44:21,371 [ 926939]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.014s. 
+2017-11-25 19:44:21,693 [ 927261]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.324s. 
+2017-11-25 19:44:23,072 [ 928640]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 19:44:23,097 [ 928665]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 19:44:23,098 [ 928666]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 19:44:23,098 [ 928666]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 19:46:24,129 [1049697]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 20982 files, runtime is 85.157 
+2017-11-25 19:46:25,155 [1050723]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 1.026 
+2017-11-25 19:46:25,156 [1050724]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 123.463s. 
+2017-11-25 19:46:54,961 [1080529]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 29.774s. 
+2017-11-25 20:01:00,418 [1925986]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 651.427s. 
+2017-11-25 20:01:26,928 [1952496]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.112s. 
+2017-11-25 20:01:26,959 [1952527]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.031s. 
+2017-11-25 20:01:32,885 [1958453]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 20:06:34,173 [2259741]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 2610 took 1624946 ms: 27 min 4sec 
+2017-11-25 20:06:34,369 [2259937]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 20:06:34,377 [2259945]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 20:06:41,625 [2267193]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.135s. 
+2017-11-25 20:06:41,625 [2267193]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-25 20:06:41,626 [2267194]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-25 20:06:41,626 [2267194]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-25 20:06:41,626 [2267194]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-25 20:06:41,627 [2267195]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-25 20:06:43,397 [2268965]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 20:06:43,433 [2269001]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 20:06:43,433 [2269001]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 20:06:43,433 [2269001]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 20:06:45,527 [2271095]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.016 
+2017-11-25 20:06:45,534 [2271102]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.006 
+2017-11-25 20:06:45,534 [2271102]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 3.907s. 
+2017-11-25 20:06:45,536 [2271104]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.0s. 
+2017-11-25 20:06:45,620 [2271188]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.082s. 
+2017-11-25 20:06:45,621 [2271189]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-11-25 20:06:45,621 [2271189]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-25 20:06:46,392 [2271960]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 12031 ms: 0 min 12sec 
+2017-11-25 20:06:46,991 [2272559]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 20:08:49,055 [2394623]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 61 of 763 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171125-192901-Studio-1.0\20171125-200849\threadDump-20171125-200849.txt 
+2017-11-25 20:15:09,259 [2774827]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 20:15:09,268 [2774836]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 20:15:19,363 [2784931]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.124s. 
+2017-11-25 20:15:19,363 [2784931]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-25 20:15:19,365 [2784933]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.001s. 
+2017-11-25 20:15:19,365 [2784933]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-25 20:15:19,366 [2784934]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.001s. 
+2017-11-25 20:15:19,366 [2784934]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-25 20:15:23,618 [2789186]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 20:15:23,659 [2789227]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 20:15:23,660 [2789228]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 20:15:23,662 [2789230]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 20:15:27,058 [2792626]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.017 
+2017-11-25 20:15:27,066 [2792634]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.004 
+2017-11-25 20:15:27,066 [2792634]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 7.7s. 
+2017-11-25 20:15:27,301 [2792869]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.231s. 
+2017-11-25 20:15:27,370 [2792938]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.062s. 
+2017-11-25 20:15:27,370 [2792938]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-11-25 20:15:27,370 [2792938]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-25 20:15:28,918 [2794486]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 20:15:30,962 [2796530]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 21705 ms: 0 min 21sec 
+2017-11-25 20:15:31,062 [2796630]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 20:15:31,097 [2796665]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 20:15:31,820 [2797388]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.176s. 
+2017-11-25 20:15:31,820 [2797388]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-25 20:15:31,820 [2797388]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-25 20:15:31,821 [2797389]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-25 20:15:31,821 [2797389]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-25 20:15:31,821 [2797389]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-25 20:15:33,852 [2799420]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 20:15:33,893 [2799461]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 20:15:33,894 [2799462]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 20:15:33,894 [2799462]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 20:15:36,003 [2801571]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.017 
+2017-11-25 20:15:36,011 [2801579]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.007 
+2017-11-25 20:15:36,011 [2801579]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 4.19s. 
+2017-11-25 20:15:36,016 [2801584]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.001s. 
+2017-11-25 20:15:36,088 [2801656]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.073s. 
+2017-11-25 20:15:36,094 [2801662]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-11-25 20:15:36,095 [2801663]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-25 20:15:37,793 [2803361]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 6775 ms: 0 min 6sec 
+2017-11-25 20:15:42,902 [2808470]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 21:01:33,454 [5559022]   INFO -          com.guidewire.codegen - Generation complete (took 25.19 seconds). 
+2017-11-25 21:02:04,965 [5590533]   INFO -          com.guidewire.codegen - Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 21:04:31,041 [5736609]   INFO - odegen.CodegenProjectComponent - Incremental codegen (Xml,Metadata,Localization) done in 203.867s. 
+2017-11-25 21:04:35,544 [5741112]   INFO -          com.guidewire.codegen - Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 21:05:07,431 [5772999]   INFO - odegen.CodegenProjectComponent - Incremental codegen (Xml) done in 32.56s. 
+2017-11-25 21:16:47,051 [6472619]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 21:16:47,106 [6472674]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 21:17:12,869 [6498437]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 13.396s. 
+2017-11-25 21:17:12,871 [6498439]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.001s. 
+2017-11-25 21:17:12,874 [6498442]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.003s. 
+2017-11-25 21:17:14,878 [6500446]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 2.007s. 
+2017-11-25 21:17:14,880 [6500448]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.002s. 
+2017-11-25 21:17:14,881 [6500449]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.001s. 
+2017-11-25 21:17:16,130 [6501698]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 21:17:16,149 [6501717]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 21:17:16,149 [6501717]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 21:17:16,150 [6501718]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 21:17:23,702 [6509270]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 572 files, runtime is 0.967 
+2017-11-25 21:17:23,899 [6509467]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.196 
+2017-11-25 21:17:23,899 [6509467]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 9.018s. 
+2017-11-25 21:17:24,745 [6510313]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.84s. 
+2017-11-25 21:19:22,973 [6628541]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 88.536s. 
+2017-11-25 21:19:22,996 [6628564]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.007s. 
+2017-11-25 21:19:22,999 [6628567]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.002s. 
+2017-11-25 21:19:27,326 [6632894]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.0s. 
+2017-11-25 21:19:27,326 [6632894]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-25 21:19:27,326 [6632894]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-25 21:19:27,326 [6632894]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-25 21:19:27,326 [6632894]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-25 21:19:27,326 [6632894]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-25 21:19:28,602 [6634170]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 21:19:28,634 [6634202]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 21:19:28,636 [6634204]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 21:19:28,636 [6634204]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 21:19:30,670 [6636238]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.046 
+2017-11-25 21:19:30,703 [6636271]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.034 
+2017-11-25 21:19:30,703 [6636271]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 3.377s. 
+2017-11-25 21:19:31,034 [6636602]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.331s. 
+2017-11-25 21:20:10,088 [6675656]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 29.974s. 
+2017-11-25 21:20:10,092 [6675660]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.003s. 
+2017-11-25 21:20:10,093 [6675661]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-25 21:20:12,709 [6678277]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 21:20:15,968 [6681536]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 156; warnings: 90 took 208799 ms: 3 min 28sec 
+2017-11-25 21:23:56,881 [6902449]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-11-25 21:23:56,890 [6902458]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 15 auto-detected files
+Elapsed time on auto-detect: 149 ms 
+2017-11-25 21:23:56,895 [6902463]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-11-25 21:23:57,400 [6902968]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-11-25 21:23:57,400 [6902968]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-11-25 21:23:57,400 [6902968]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-11-25 21:23:57,500 [6903068]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-11-25 21:23:57,500 [6903068]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-11-25 21:23:57,599 [6903167]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-11-25 21:23:57,604 [6903172]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-11-25 21:23:57,605 [6903173]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-11-25 21:25:47,314 [   1156]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-11-25 21:25:47,393 [   1235]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-1.0, 31 Dec 0002 00:00) 
+2017-11-25 21:25:47,394 [   1236]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-11-25 21:25:47,394 [   1236]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_121-b13 (Oracle Corporation) 
+2017-11-25 21:25:47,394 [   1236]   INFO -        #com.intellij.idea.Main - JVM: 25.71-b01-dcevmlight-2 (Dynamic Code Evolution 64-Bit Server VM) 
+2017-11-25 21:25:47,396 [   1238]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=64m -ea -Didea.properties.file=C:/work/ClaimCenter904/.idea/settings/idea.properties -Dstudio.sdkroot=C:/work/ClaimCenter904 -Didea.plugins.compatible.build=143.2370.31 -Dstudio.minimum.preferred.idea.version=143.2370 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -Dapple.laf.useScreenMenuBar=true -Dapple.awt.application.name=Guidewire Studio -Didea.platform.prefix=Studio -Xmx4g 
+2017-11-25 21:25:47,396 [   1238]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-11-25 21:25:47,500 [   1342]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 103 ms 
+2017-11-25 21:25:47,509 [   1351]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-11-25 21:25:47,514 [   1356]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-11-25 21:25:51,573 [   5415]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2017-11-25 21:25:53,458 [   7300]   INFO - llij.ide.plugins.PluginManager - 34 plugins initialized in 3250 ms 
+2017-11-25 21:25:53,493 [   7335]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Git Integration (8.1), GitHub (143.2370.31), Gradle (143.2370.31), Groovy (9.0), I18n for Java (143.2370.31), IDEA CORE (143.SNAPSHOT), JUnit (1.0), Properties Support (143.SNAPSHOT), Terminal (0.1) 
+2017-11-25 21:25:53,493 [   7335]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Gosu (1.1.13-rc-SNAPSHOT), Gosu Inspections Plugin (1.1.13-rc-SNAPSHOT), Guidewire Services Best Practices (1.1.13-rc-SNAPSHOT), Guidewire Studio (1.1.13-rc-SNAPSHOT) 
+2017-11-25 21:25:53,493 [   7335]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.1.3.0), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (143.SNAPSHOT), Eclipse Integration (3.0), EditorConfig (1.0), IntelliLang (8.0), JavaFX (1.0), Kotlin (1.0.1-release-IJ143-40), Maven Integration (143.2370.31), Plugin DevKit (1.0), Settings Repository (143.2370.31), Subversion Integration (1.1), Task Management (1.0), TestNG-J (8.0), UI Designer (143.2370.31), XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2017-11-25 21:25:54,840 [   8682]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=4130865152 
+2017-11-25 21:25:55,017 [   8859]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\work\ClaimCenter904\studio\sdk\bin\fsnotifier64.exe 
+2017-11-25 21:25:55,089 [   8931]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-11-25 21:25:59,300 [  13142]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2017-11-25 21:26:04,314 [  18156]   INFO - plication.impl.ApplicationImpl - 80 application components initialized in 14124 ms 
+2017-11-25 21:26:04,467 [  18309]   INFO - .intellij.idea.IdeaApplication - App initialization took 19859 ms 
+2017-11-25 21:26:05,286 [  19128]   INFO - ateSettings.impl.UpdateChecker - Connection failed (no protocol: ?os=Windows+10+10.0&build=Studio-1.0&uid=aaea98c7-9817-4895-ab32-98696b9dee89). Please check network connection and try again. 
+2017-11-25 21:26:07,421 [  21263]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2017-11-25 21:26:07,998 [  21840]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 45 ms 
+2017-11-25 21:26:07,998 [  21840]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2017-11-25 21:26:08,350 [  22192]   INFO - ellij.project.impl.ProjectImpl - 126 project components initialized in 2422 ms 
+2017-11-25 21:26:08,667 [  22509]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 316 ms 
+2017-11-25 21:26:12,548 [  26390]   INFO - .studio.init.StudioEnvironment - Minimum preferred build of IDEA is 143.2370 
+2017-11-25 21:26:12,548 [  26390]   INFO - .studio.init.StudioEnvironment - Most recently tested IDEA build is 143.2370.31 
+2017-11-25 21:26:12,548 [  26390]   INFO - .studio.init.StudioEnvironment - Currently running IDEA build 143.2370 
+2017-11-25 21:26:14,196 [  28038]   INFO - tartup.impl.StartupManagerImpl - C:/work/ClaimCenter904/.idea/misc.xml case-sensitivity: false 
+2017-11-25 21:26:18,465 [  32307]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 787ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-25 21:26:18,501 [  32343]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 12643 ms 
+2017-11-25 21:26:24,512 [  38354]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 6041ms; general responsiveness: ok; EDT responsiveness: 1/6 sluggish, 1/6 very slow 
+2017-11-25 21:27:05,033 [  78875]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 6 ms 
+2017-11-25 21:27:07,072 [  80914]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 21:27:08,452 [  82294]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 21:27:58,137 [ 131979]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 22.637s. 
+2017-11-25 21:27:58,142 [ 131984]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.005s. 
+2017-11-25 21:27:58,147 [ 131989]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.005s. 
+2017-11-25 21:28:01,122 [ 134964]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 2.975s. 
+2017-11-25 21:28:01,124 [ 134966]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.002s. 
+2017-11-25 21:28:01,137 [ 134979]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.008s. 
+2017-11-25 21:28:03,207 [ 137049]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 21:28:03,232 [ 137074]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 21:28:03,232 [ 137074]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 21:28:03,233 [ 137075]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 21:28:14,777 [ 148619]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 572 files, runtime is 1.075 
+2017-11-25 21:28:14,964 [ 148806]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.187 
+2017-11-25 21:28:14,965 [ 148807]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 13.832s. 
+2017-11-25 21:28:16,156 [ 149998]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 1.189s. 
+2017-11-25 21:30:07,941 [ 261783]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 80.235s. 
+2017-11-25 21:30:07,959 [ 261801]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.006s. 
+2017-11-25 21:30:08,012 [ 261854]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.003s. 
+2017-11-25 21:30:09,270 [ 263112]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 156; warnings: 90 took 182320 ms: 3 min 2sec 
+2017-11-25 21:30:09,601 [ 263443]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 21:51:34,080 [1547922]   INFO - s.impl.ProjectManagerComponent - project roots have changed 
+2017-11-25 21:51:34,509 [1548351]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 231ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-25 21:51:35,108 [1548950]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 598ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-25 21:51:35,109 [1548951]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 633 files to update 
+2017-11-25 21:51:37,274 [1551116]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 2165ms; general responsiveness: 1/2 sluggish; EDT responsiveness: ok 
+2017-11-25 21:51:47,987 [1561829]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 21:51:49,969 [1563811]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 22:10:22,176 [2676018]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 52.85s. 
+2017-11-25 22:11:40,994 [2754836]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 78.817s. 
+2017-11-25 22:11:43,300 [2757142]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 2.305s. 
+2017-11-25 22:11:44,034 [2757876]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.734s. 
+2017-11-25 22:11:44,053 [2757895]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.019s. 
+2017-11-25 22:11:44,227 [2758069]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.174s. 
+2017-11-25 22:11:44,957 [2758799]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 22:11:44,970 [2758812]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 22:11:44,970 [2758812]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 22:11:44,971 [2758813]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 22:12:59,672 [2833514]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 21065 files, runtime is 51.002 
+2017-11-25 22:13:00,151 [2833993]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.479 
+2017-11-25 22:13:00,151 [2833993]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 75.924s. 
+2017-11-25 22:13:18,076 [2851918]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 17.914s. 
+2017-11-25 22:21:31,694 [3345536]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 398.871s. 
+2017-11-25 22:21:49,437 [3363279]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.044s. 
+2017-11-25 22:21:49,458 [3363300]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.021s. 
+2017-11-25 22:21:50,587 [3364429]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.0s. 
+2017-11-25 22:21:50,588 [3364430]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.001s. 
+2017-11-25 22:21:50,588 [3364430]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-25 22:21:50,588 [3364430]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-25 22:21:50,588 [3364430]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-25 22:21:50,588 [3364430]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-25 22:21:51,327 [3365169]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 22:21:51,343 [3365185]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 22:21:51,343 [3365185]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 22:21:51,343 [3365185]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 22:21:52,835 [3366677]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.012 
+2017-11-25 22:21:52,839 [3366681]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.004 
+2017-11-25 22:21:52,839 [3366681]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 2.251s. 
+2017-11-25 22:21:52,956 [3366798]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.117s. 
+2017-11-25 22:22:13,492 [3387334]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 19.288s. 
+2017-11-25 22:22:13,494 [3387336]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.001s. 
+2017-11-25 22:22:13,494 [3387336]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-25 22:22:16,801 [3390643]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 2697 took 1828821 ms: 30 min 28sec 
+2017-11-25 22:22:16,900 [3390742]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 22:22:16,903 [3390745]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 22:22:17,768 [3391610]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 22:22:19,866 [3393708]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.108s. 
+2017-11-25 22:22:19,866 [3393708]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-25 22:22:19,866 [3393708]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-25 22:22:19,867 [3393709]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-25 22:22:19,867 [3393709]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-25 22:22:19,868 [3393710]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-25 22:22:21,045 [3394887]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 22:22:21,068 [3394910]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 22:22:21,068 [3394910]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 22:22:21,068 [3394910]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 22:22:22,934 [3396776]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.013 
+2017-11-25 22:22:22,945 [3396787]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.006 
+2017-11-25 22:22:22,951 [3396793]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 3.077s. 
+2017-11-25 22:22:23,160 [3397002]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.206s. 
+2017-11-25 22:22:30,092 [3403934]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 6.931s. 
+2017-11-25 22:22:30,095 [3403937]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.001s. 
+2017-11-25 22:22:30,095 [3403937]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-25 22:22:30,543 [3404385]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 13643 ms: 0 min 13sec 
+2017-11-25 22:22:31,891 [3405733]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 23:06:33,408 [6047250]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-11-25 23:06:33,436 [6047278]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 6 auto-detected files
+Elapsed time on auto-detect: 138 ms 
+2017-11-25 23:06:33,452 [6047294]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-11-25 23:06:33,888 [6047730]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-11-25 23:06:33,888 [6047730]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-11-25 23:06:33,889 [6047731]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-11-25 23:06:33,994 [6047836]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-11-25 23:06:33,994 [6047836]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-11-25 23:06:34,091 [6047933]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-11-25 23:06:34,097 [6047939]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-11-25 23:06:34,100 [6047942]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-11-25 23:22:15,911 [    840]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-11-25 23:22:15,957 [    886]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-1.0, 31 Dec 0002 00:00) 
+2017-11-25 23:22:15,957 [    886]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-11-25 23:22:15,957 [    886]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_121-b13 (Oracle Corporation) 
+2017-11-25 23:22:15,957 [    886]   INFO -        #com.intellij.idea.Main - JVM: 25.71-b01-dcevmlight-2 (Dynamic Code Evolution 64-Bit Server VM) 
+2017-11-25 23:22:15,958 [    887]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=64m -ea -Didea.properties.file=C:/work/ClaimCenter904/.idea/settings/idea.properties -Dstudio.sdkroot=C:/work/ClaimCenter904 -Didea.plugins.compatible.build=143.2370.31 -Dstudio.minimum.preferred.idea.version=143.2370 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -Dapple.laf.useScreenMenuBar=true -Dapple.awt.application.name=Guidewire Studio -Didea.platform.prefix=Studio -Xmx4g 
+2017-11-25 23:22:15,959 [    888]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-11-25 23:22:16,015 [    944]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 56 ms 
+2017-11-25 23:22:16,020 [    949]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-11-25 23:22:16,024 [    953]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-11-25 23:22:18,682 [   3611]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2017-11-25 23:22:19,815 [   4744]   INFO - llij.ide.plugins.PluginManager - 34 plugins initialized in 2074 ms 
+2017-11-25 23:22:19,827 [   4756]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Git Integration (8.1), GitHub (143.2370.31), Gradle (143.2370.31), Groovy (9.0), I18n for Java (143.2370.31), IDEA CORE (143.SNAPSHOT), JUnit (1.0), Properties Support (143.SNAPSHOT), Terminal (0.1) 
+2017-11-25 23:22:19,827 [   4756]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Gosu (1.1.13-rc-SNAPSHOT), Gosu Inspections Plugin (1.1.13-rc-SNAPSHOT), Guidewire Services Best Practices (1.1.13-rc-SNAPSHOT), Guidewire Studio (1.1.13-rc-SNAPSHOT) 
+2017-11-25 23:22:19,827 [   4756]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.1.3.0), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (143.SNAPSHOT), Eclipse Integration (3.0), EditorConfig (1.0), IntelliLang (8.0), JavaFX (1.0), Kotlin (1.0.1-release-IJ143-40), Maven Integration (143.2370.31), Plugin DevKit (1.0), Settings Repository (143.2370.31), Subversion Integration (1.1), Task Management (1.0), TestNG-J (8.0), UI Designer (143.2370.31), XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2017-11-25 23:22:20,510 [   5439]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=4130865152 
+2017-11-25 23:22:20,593 [   5522]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\work\ClaimCenter904\studio\sdk\bin\fsnotifier64.exe 
+2017-11-25 23:22:20,615 [   5544]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-11-25 23:22:22,145 [   7074]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2017-11-25 23:22:24,705 [   9634]   INFO - plication.impl.ApplicationImpl - 80 application components initialized in 6965 ms 
+2017-11-25 23:22:24,746 [   9675]   INFO - .intellij.idea.IdeaApplication - App initialization took 10411 ms 
+2017-11-25 23:22:24,786 [   9715]   INFO - ateSettings.impl.UpdateChecker - Connection failed (no protocol: ?os=Windows+10+10.0&build=Studio-1.0&uid=aaea98c7-9817-4895-ab32-98696b9dee89). Please check network connection and try again. 
+2017-11-25 23:22:26,384 [  11313]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2017-11-25 23:22:26,746 [  11675]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 32 ms 
+2017-11-25 23:22:26,746 [  11675]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2017-11-25 23:22:26,885 [  11814]   INFO - ellij.project.impl.ProjectImpl - 126 project components initialized in 1383 ms 
+2017-11-25 23:22:27,113 [  12042]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 228 ms 
+2017-11-25 23:22:29,221 [  14150]   INFO - .studio.init.StudioEnvironment - Minimum preferred build of IDEA is 143.2370 
+2017-11-25 23:22:29,221 [  14150]   INFO - .studio.init.StudioEnvironment - Most recently tested IDEA build is 143.2370.31 
+2017-11-25 23:22:29,221 [  14150]   INFO - .studio.init.StudioEnvironment - Currently running IDEA build 143.2370 
+2017-11-25 23:22:30,390 [  15319]   INFO - tartup.impl.StartupManagerImpl - C:/work/ClaimCenter904/.idea/misc.xml case-sensitivity: false 
+2017-11-25 23:22:32,194 [  17123]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 6756 ms 
+2017-11-25 23:22:33,411 [  18340]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1236ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2017-11-25 23:22:36,901 [  21830]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3487ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-25 23:22:55,051 [  39980]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 23:22:55,888 [  40817]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 23:23:03,709 [  48638]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.095s. 
+2017-11-25 23:23:03,709 [  48638]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-25 23:23:03,709 [  48638]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-25 23:23:03,710 [  48639]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-25 23:23:03,710 [  48639]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-25 23:23:03,710 [  48639]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-25 23:23:04,958 [  49887]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-25 23:23:04,989 [  49918]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-25 23:23:04,990 [  49919]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-25 23:23:04,990 [  49919]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-25 23:23:07,337 [  52266]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.018 
+2017-11-25 23:23:07,345 [  52274]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.008 
+2017-11-25 23:23:07,346 [  52275]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 3.635s. 
+2017-11-25 23:23:07,349 [  52278]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.0s. 
+2017-11-25 23:23:07,435 [  52364]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.084s. 
+2017-11-25 23:23:07,439 [  52368]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-11-25 23:23:07,441 [  52370]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-25 23:23:08,109 [  53038]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 13066 ms: 0 min 13sec 
+2017-11-25 23:23:08,400 [  53329]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 23:23:08,405 [  53334]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 23:23:08,909 [  53838]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 23:23:10,668 [  55597]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 2275 ms: 0 min 2sec 
+2017-11-25 23:23:11,575 [  56504]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 23:34:12,598 [ 717527]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 8 ms 
+2017-11-25 23:36:14,785 [ 839714]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 23:36:14,793 [ 839722]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 23:36:15,450 [ 840379]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 673 ms: 0 min 0sec 
+2017-11-25 23:36:15,503 [ 840432]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 23:36:15,531 [ 840460]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 23:36:16,545 [ 841474]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 23:36:18,522 [ 843451]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 3026 ms: 0 min 3sec 
+2017-11-25 23:36:19,348 [ 844277]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 23:49:09,760 [1614689]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 23:49:09,763 [1614692]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 23:49:09,891 [1614820]   INFO - .server.BuildMessageDispatcher - An existing connection was forcibly closed by the remote host 
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:221)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:245)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:112)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:510)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:467)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:381)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:353)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:339)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:356)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+2017-11-25 23:49:10,368 [1615297]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 616 ms: 0 min 0sec 
+2017-11-25 23:49:10,415 [1615344]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-25 23:49:10,415 [1615344]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-25 23:49:11,092 [1616021]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-25 23:49:13,128 [1618057]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 2729 ms: 0 min 2sec 
+2017-11-25 23:49:14,327 [1619256]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-26 11:57:36,607 [45321536]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 42 of 260 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171125-232221-Studio-1.0\20171126-115736\threadDump-20171126-115736.txt 
+2017-11-27 10:00:14,563 [124679492]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 10:00:14,585 [124679514]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 10:00:15,251 [124680180]   INFO - .server.BuildMessageDispatcher - An existing connection was forcibly closed by the remote host 
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:221)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:245)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:112)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:510)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:467)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:381)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:353)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:339)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:356)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+2017-11-27 10:00:20,009 [124684938]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 5462 ms: 0 min 5sec 
+2017-11-27 10:00:20,056 [124684985]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 10:00:20,087 [124685016]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 10:00:31,593 [124696522]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 10:00:46,468 [124711397]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 26422 ms: 0 min 26sec 
+2017-11-27 10:00:49,369 [124714298]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 20 of 260 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171125-232221-Studio-1.0\20171127-100049\threadDump-20171127-100049.txt 
+2017-11-27 10:00:54,392 [124719321]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 13 of 260 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171125-232221-Studio-1.0\20171127-100049\threadDump-20171127-100054.txt 
+2017-11-27 10:01:02,895 [124727824]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 10:01:05,043 [124729972]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 44 of 260 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171125-232221-Studio-1.0\20171127-100049\threadDump-20171127-100105.txt 
+2017-11-27 10:11:21,897 [125346826]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 10:11:21,898 [125346827]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 10:11:22,473 [125347402]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 594 ms: 0 min 0sec 
+2017-11-27 10:11:22,500 [125347429]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 10:11:22,502 [125347431]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 10:11:23,284 [125348213]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 10:11:25,334 [125350263]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 2838 ms: 0 min 2sec 
+2017-11-27 10:11:25,998 [125350927]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 10:54:00,405 [127905334]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Wsdl Fetcher) or icon com.intellij.util.ui.JBImageIcon@22ebc196 
+2017-11-27 10:54:00,423 [127905352]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Wsdl Fetcher) or icon javax.swing.ImageIcon@918a7eb 
+2017-11-27 10:54:31,287 [127936216]   INFO -          com.guidewire.codegen - Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-27 10:54:46,956 [127951885]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 10:55:24,965 [127989894]   INFO - odegen.CodegenProjectComponent - Incremental codegen (Xml) done in 54.457s. 
+2017-11-27 10:55:25,952 [127990881]   INFO -          com.guidewire.codegen - Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-27 10:55:45,309 [128010238]   INFO - odegen.CodegenProjectComponent - Incremental codegen (Xml) done in 20.299s. 
+2017-11-27 10:55:45,556 [128010485]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 10:55:48,621 [128013550]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.104s. 
+2017-11-27 10:55:48,622 [128013551]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-27 10:55:48,623 [128013552]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-27 10:55:48,623 [128013552]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-27 10:55:48,624 [128013553]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-27 10:55:48,624 [128013553]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-27 10:55:49,966 [128014895]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-27 10:55:49,987 [128014916]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-27 10:55:49,988 [128014917]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-27 10:55:49,988 [128014917]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-27 10:55:54,805 [128019734]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 720 files, runtime is 0.922 
+2017-11-27 10:55:54,971 [128019900]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.165 
+2017-11-27 10:55:54,971 [128019900]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 6.347s. 
+2017-11-27 10:55:54,973 [128019902]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.0s. 
+2017-11-27 10:55:55,038 [128019967]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.062s. 
+2017-11-27 10:55:55,040 [128019969]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-11-27 10:55:55,041 [128019970]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-27 10:55:56,184 [128021113]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 69277 ms: 1 min 9sec 
+2017-11-27 10:55:56,561 [128021490]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 10:55:56,571 [128021500]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 10:55:56,698 [128021627]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 10:55:58,995 [128023924]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 2686 ms: 0 min 2sec 
+2017-11-27 10:55:59,735 [128024664]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 11:04:42,890 [128547819]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 11:04:42,891 [128547820]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 11:04:45,360 [128550289]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.211s. 
+2017-11-27 11:04:45,361 [128550290]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-27 11:04:45,363 [128550292]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.001s. 
+2017-11-27 11:04:45,365 [128550294]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-27 11:04:45,369 [128550298]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.002s. 
+2017-11-27 11:04:45,369 [128550298]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-27 11:04:50,696 [128555625]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-27 11:04:50,729 [128555658]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-27 11:04:50,729 [128555658]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-27 11:04:50,730 [128555659]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-27 11:04:56,342 [128561271]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.080 
+2017-11-27 11:04:56,348 [128561277]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.006 
+2017-11-27 11:04:56,348 [128561277]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 10.979s. 
+2017-11-27 11:04:56,714 [128561643]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.363s. 
+2017-11-27 11:04:56,812 [128561741]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.092s. 
+2017-11-27 11:04:56,812 [128561741]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.001s. 
+2017-11-27 11:04:56,812 [128561741]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-27 11:05:02,209 [128567138]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 11:05:05,732 [128570661]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 22833 ms: 0 min 22sec 
+2017-11-27 11:05:06,316 [128571245]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 11:05:06,343 [128571272]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 11:05:17,068 [128581997]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 11:05:23,418 [128588347]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 17228 ms: 0 min 17sec 
+2017-11-27 11:12:54,225 [129039154]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 11:12:54,229 [129039158]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 11:13:01,370 [129046299]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 11:13:08,410 [129053339]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 14103 ms: 0 min 14sec 
+2017-11-27 11:13:09,190 [129054119]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 11:13:09,212 [129054141]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 11:13:18,276 [129063205]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 9851 ms: 0 min 9sec 
+2017-11-27 11:13:25,200 [129070129]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 11:21:18,384 [129543313]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 11:21:18,402 [129543331]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 11:21:18,944 [129543873]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.099s. 
+2017-11-27 11:21:18,944 [129543873]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-27 11:21:18,944 [129543873]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-27 11:21:18,944 [129543873]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-27 11:21:18,944 [129543873]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-27 11:21:18,944 [129543873]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-27 11:21:20,262 [129545191]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-27 11:21:20,293 [129545222]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-27 11:21:20,293 [129545222]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-27 11:21:20,293 [129545222]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-27 11:21:22,295 [129547224]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.015 
+2017-11-27 11:21:22,315 [129547244]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.020 
+2017-11-27 11:21:22,315 [129547244]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 3.371s. 
+2017-11-27 11:21:22,591 [129547520]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.275s. 
+2017-11-27 11:21:22,653 [129547582]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.062s. 
+2017-11-27 11:21:22,653 [129547582]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-11-27 11:21:22,653 [129547582]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-27 11:21:23,822 [129548751]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 5454 ms: 0 min 5sec 
+2017-11-27 11:21:23,998 [129548927]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-27 11:21:24,023 [129548952]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-27 11:21:24,476 [129549405]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 11:21:31,526 [129556455]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 7634 ms: 0 min 7sec 
+2017-11-27 11:21:44,369 [129569298]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-27 14:01:58,612 [139183541]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:4526,null 
+2017-11-27 14:05:59,804 [139424733]   INFO - ij.find.impl.FindInProjectTask - Search in 15350 files with unknown types took 5883ms.
+Mapping their extensions to an existing file type (e.g. Plain Text) might speed up the search.
+Most frequent non-indexed file extensions: gif(7174) png(5510) pcfc(2284) (258) scss(26) ttf(20) woff(20) jar(20) amf(12) js(9)  
+2017-11-27 14:05:59,818 [139424747]   INFO - .diagnostic.PerformanceWatcher - Find Usages took 11715ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-27 14:11:14,144 [139739073]   INFO - ij.find.impl.FindInProjectTask - Search in 15350 files with unknown types took 1984ms.
+Mapping their extensions to an existing file type (e.g. Plain Text) might speed up the search.
+Most frequent non-indexed file extensions: gif(7174) png(5510) pcfc(2284) (258) scss(26) ttf(20) woff(20) jar(20) amf(12) js(9)  
+2017-11-27 14:11:14,164 [139739093]   INFO - .diagnostic.PerformanceWatcher - Find Usages took 8918ms; general responsiveness: 4/8 sluggish; EDT responsiveness: ok 
+2017-11-27 14:11:24,420 [139749349]   INFO - vaFunctionalExpressionSearcher - #methods: 0 
+2017-11-27 14:11:24,498 [139749427]   INFO - vaFunctionalExpressionSearcher - #usage files: 1 
+2017-11-27 14:11:24,580 [139749509]   INFO - vaFunctionalExpressionSearcher - #methods: 0 
+2017-11-27 14:11:24,582 [139749511]   INFO - vaFunctionalExpressionSearcher - #usage files: 1 
+2017-11-27 14:11:31,974 [139756903]   INFO - .diagnostic.PerformanceWatcher - Find Usages took 32ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-29 20:31:26,273 [335351202]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-29 20:31:26,310 [335351239]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-29 20:31:27,798 [335352727]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.139s. 
+2017-11-29 20:31:27,798 [335352727]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-29 20:31:27,798 [335352727]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-29 20:31:27,798 [335352727]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-29 20:31:27,799 [335352728]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-29 20:31:27,799 [335352728]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-29 20:31:38,795 [335363724]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-29 20:31:39,034 [335363963]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-29 20:31:39,035 [335363964]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-29 20:31:39,035 [335363964]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-29 20:31:41,478 [335366407]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.029 
+2017-11-29 20:31:41,481 [335366410]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.004 
+2017-11-29 20:31:41,481 [335366410]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 13.682s. 
+2017-11-29 20:31:41,808 [335366737]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.323s. 
+2017-11-29 20:31:41,859 [335366788]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.048s. 
+2017-11-29 20:31:41,860 [335366789]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-11-29 20:31:41,861 [335366790]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-29 20:31:44,015 [335368944]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 17757 ms: 0 min 17sec 
+2017-11-29 20:31:44,193 [335369122]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-29 20:31:44,197 [335369126]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-29 20:31:49,910 [335374839]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-29 20:31:52,065 [335376994]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 7904 ms: 0 min 7sec 
+2017-11-29 20:31:52,917 [335377846]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-29 22:18:02,492 [341747421]   INFO - .diagnostic.PerformanceWatcher - Find Usages took 554ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2017-11-29 22:21:57,664 [341982593]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-29 22:21:57,685 [341982614]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-29 22:21:59,492 [341984421]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.484s. 
+2017-11-29 22:21:59,492 [341984421]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-29 22:21:59,494 [341984423]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-29 22:21:59,494 [341984423]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-29 22:21:59,494 [341984423]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-29 22:21:59,494 [341984423]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-29 22:22:01,472 [341986401]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-29 22:22:01,520 [341986449]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-29 22:22:01,521 [341986450]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-29 22:22:01,521 [341986450]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-29 22:22:04,062 [341988991]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.017 
+2017-11-29 22:22:04,067 [341988996]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.005 
+2017-11-29 22:22:04,067 [341988996]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 4.573s. 
+2017-11-29 22:22:04,456 [341989385]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.385s. 
+2017-11-29 22:22:04,536 [341989465]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.072s. 
+2017-11-29 22:22:04,536 [341989465]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-11-29 22:22:04,536 [341989465]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-29 22:22:06,497 [341991426]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-29 22:22:07,631 [341992560]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 9855 ms: 0 min 9sec 
+2017-11-29 22:22:07,657 [341992586]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-29 22:22:07,664 [341992593]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-29 22:22:10,822 [341995751]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-29 22:22:11,557 [341996486]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 4003 ms: 0 min 4sec 
+2017-11-29 22:24:05,289 [342110218]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:8468,file://C:/work/ClaimCenter904/modules/configuration/config/locale/display_pt.properties 
+2017-11-29 22:24:43,559 [342148488]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:13331,file://C:/work/ClaimCenter904/modules/configuration/config/locale/display_pt.properties 
+2017-11-29 22:26:14,980 [342239909]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:4293,file://C:/work/ClaimCenter904/modules/configuration/gsrc/edge/capabilities/servicerequest/summary/dto/ServiceRequestSummaryDTO.gs 
+2017-11-29 22:28:14,581 [342359510]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:8398,file://C:/work/ClaimCenter904/modules/configuration/config/locale/display_en_US.properties 
+2017-11-29 22:30:18,907 [342483836]   INFO - .diagnostic.PerformanceWatcher - Find Usages took 3942ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-29 22:32:01,734 [342586663]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-29 22:32:01,751 [342586680]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-29 22:32:02,722 [342587651]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.216s. 
+2017-11-29 22:32:02,722 [342587651]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-29 22:32:02,722 [342587651]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-29 22:32:02,722 [342587651]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-29 22:32:02,723 [342587652]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-29 22:32:02,723 [342587652]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-29 22:32:04,337 [342589266]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-29 22:32:04,361 [342589290]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-29 22:32:04,362 [342589291]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-29 22:32:04,362 [342589291]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-29 22:32:06,662 [342591591]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.014 
+2017-11-29 22:32:06,666 [342591595]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.004 
+2017-11-29 22:32:06,666 [342591595]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 3.943s. 
+2017-11-29 22:32:07,083 [342592012]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.414s. 
+2017-11-29 22:32:19,778 [342604707]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 12.676s. 
+2017-11-29 22:32:19,778 [342604707]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.004s. 
+2017-11-29 22:32:19,778 [342604707]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-29 22:32:21,830 [342606759]   INFO - notification.NotificationGroup - Notification group HotSwap is already registered 
+java.lang.Throwable
+	at com.intellij.notification.NotificationGroup.<init>(NotificationGroup.java:52)
+	at com.intellij.notification.NotificationGroup.toolWindowGroup(NotificationGroup.java:69)
+	at com.intellij.notification.NotificationGroup.toolWindowGroup(NotificationGroup.java:74)
+	at com.intellij.debugger.ui.HotSwapProgressImpl.<clinit>(HotSwapProgressImpl.java:44)
+	at com.guidewire.studio.debug.StudioHotSwapUI.hotSwapSessions(StudioHotSwapUI.java:152)
+	at com.guidewire.studio.debug.StudioHotSwapUI.access$700(StudioHotSwapUI.java:62)
+	at com.guidewire.studio.debug.StudioHotSwapUI$MyCompilationStatusListener.compilationFinished(StudioHotSwapUI.java:308)
+	at sun.reflect.GeneratedMethodAccessor288.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:116)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:368)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:355)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:341)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:334)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:42)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:223)
+	at com.sun.proxy.$Proxy64.compilationFinished(Unknown Source)
+	at com.intellij.compiler.CompilerManagerImpl$ListenerNotificator.finished(CompilerManagerImpl.java:485)
+	at com.intellij.compiler.impl.CompileDriver$5.run(CompileDriver.java:524)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:654)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2017-11-29 22:32:21,832 [342606761]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 20112 ms: 0 min 20sec 
+2017-11-29 22:32:21,992 [342606921]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-29 22:37:35,906 [342920835]   WARN - .ij.psi.impl.GosuBlockImplUtil - Unknown block type, returning 'void' type: java.lang.String 
+2017-11-29 22:37:35,906 [342920835]   WARN - .ij.psi.impl.GosuBlockImplUtil - Unknown block type, returning 'void' type: java.lang.String 
+2017-11-29 22:37:47,283 [342932212]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-29 22:37:47,301 [342932230]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-29 22:37:48,204 [342933133]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.245s. 
+2017-11-29 22:37:48,206 [342933135]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-29 22:37:48,207 [342933136]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-29 22:37:48,208 [342933137]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-29 22:37:48,208 [342933137]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-29 22:37:48,209 [342933138]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-29 22:37:50,430 [342935359]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-29 22:37:50,476 [342935405]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-29 22:37:50,477 [342935406]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-29 22:37:50,477 [342935406]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-29 22:37:52,267 [342937196]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.022 
+2017-11-29 22:37:52,270 [342937199]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.003 
+2017-11-29 22:37:52,270 [342937199]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 4.061s. 
+2017-11-29 22:37:52,570 [342937499]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.298s. 
+2017-11-29 22:38:04,950 [342949879]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 12.374s. 
+2017-11-29 22:38:04,959 [342949888]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.004s. 
+2017-11-29 22:38:04,959 [342949888]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.001s. 
+2017-11-29 22:38:06,151 [342951080]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 18873 ms: 0 min 18sec 
+2017-11-29 22:38:07,408 [342952337]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-29 22:39:44,191 [343049120]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:13530,file://C:/work/ClaimCenter904/modules/configuration/config/locale/display_en_US.properties 
+2017-11-29 22:41:47,646 [343172575]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@76a8549e; elapsed time was 128ms 
+2017-11-29 22:48:20,026 [343564955]   INFO - vaFunctionalExpressionSearcher - #methods: 0 
+2017-11-29 22:48:20,029 [343564958]   INFO - vaFunctionalExpressionSearcher - #usage files: 1 
+2017-11-29 22:48:20,088 [343565017]   INFO - vaFunctionalExpressionSearcher - #methods: 0 
+2017-11-29 22:48:20,089 [343565018]   INFO - vaFunctionalExpressionSearcher - #usage files: 1 
+2017-11-29 22:56:47,364 [344072293]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-29 22:56:47,378 [344072307]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-29 22:56:49,059 [344073988]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.134s. 
+2017-11-29 22:56:49,059 [344073988]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-29 22:56:49,059 [344073988]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-29 22:56:49,060 [344073989]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-29 22:56:49,060 [344073989]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-29 22:56:49,060 [344073989]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-29 22:56:50,436 [344075365]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-29 22:56:50,490 [344075419]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-29 22:56:50,491 [344075420]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-29 22:56:50,491 [344075420]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-29 22:56:52,635 [344077564]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.016 
+2017-11-29 22:56:52,638 [344077567]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.003 
+2017-11-29 22:56:52,638 [344077567]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 3.578s. 
+2017-11-29 22:56:52,949 [344077878]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.308s. 
+2017-11-29 22:57:05,756 [344090685]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 12.805s. 
+2017-11-29 22:57:05,769 [344090698]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.006s. 
+2017-11-29 22:57:05,774 [344090703]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.001s. 
+2017-11-29 22:57:06,774 [344091703]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 19422 ms: 0 min 19sec 
+2017-11-29 22:57:08,394 [344093323]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-29 22:59:48,707 [344253636]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:5726,file://C:/Users/307565/AppData/Local/Temp/add3bff2/Gosu Scratchpad.gsp 
+2017-11-29 23:05:16,460 [344581389]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:13296,file://C:/Users/307565/AppData/Local/Temp/add3bff2/Gosu Scratchpad.gsp 
+2017-11-29 23:06:32,931 [344657860]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-29 23:06:32,932 [344657861]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-29 23:06:33,598 [344658527]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.162s. 
+2017-11-29 23:06:33,599 [344658528]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.001s. 
+2017-11-29 23:06:33,599 [344658528]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-29 23:06:33,600 [344658529]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-29 23:06:33,600 [344658529]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-29 23:06:33,601 [344658530]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-29 23:06:35,651 [344660580]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-29 23:06:35,699 [344660628]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-29 23:06:35,700 [344660629]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-29 23:06:35,700 [344660629]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-29 23:06:37,863 [344662792]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.030 
+2017-11-29 23:06:37,868 [344662797]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.005 
+2017-11-29 23:06:37,868 [344662797]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 4.267s. 
+2017-11-29 23:06:38,667 [344663596]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.797s. 
+2017-11-29 23:06:38,706 [344663635]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.037s. 
+2017-11-29 23:06:38,712 [344663641]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-11-29 23:06:38,712 [344663641]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-29 23:06:40,597 [344665526]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-29 23:06:41,112 [344666041]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 8052 ms: 0 min 8sec 
+2017-11-29 23:06:41,119 [344666048]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-29 23:06:41,127 [344666056]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-29 23:06:43,619 [344668548]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 2577 ms: 0 min 2sec 
+2017-11-29 23:06:44,350 [344669279]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-30 09:05:07,790 [380572719]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.compiler.server.BuildManager$10@71e0675f; elapsed time was 78ms 
+2017-11-30 15:53:21,239 [405066168]   INFO - ij.find.impl.FindInProjectTask - Search in 15350 files with unknown types took 1308ms.
+Mapping their extensions to an existing file type (e.g. Plain Text) might speed up the search.
+Most frequent non-indexed file extensions: gif(7174) png(5510) pcfc(2284) (258) scss(26) ttf(20) woff(20) jar(20) amf(12) js(9)  
+2017-11-30 15:53:38,652 [405083581]   INFO - ij.find.impl.FindInProjectTask - Search in 15350 files with unknown types took 1273ms.
+Mapping their extensions to an existing file type (e.g. Plain Text) might speed up the search.
+Most frequent non-indexed file extensions: gif(7174) png(5510) pcfc(2284) (258) scss(26) ttf(20) woff(20) jar(20) amf(12) js(9)  
+2017-11-30 15:54:29,135 [405134064]   INFO - openapi.editor.impl.EditorImpl - Cache hits:12288, total requests:19969,file://C:/Users/307565/AppData/Local/Temp/add3bff2/Gosu Scratchpad.gsp 
+2017-11-30 17:48:24,486 [411969415]   INFO - vaFunctionalExpressionSearcher - #methods: 0 
+2017-11-30 17:48:24,495 [411969424]   INFO - vaFunctionalExpressionSearcher - #usage files: 3 
+2017-11-30 17:50:35,833 [412100762]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:6947,file://C:/work/ClaimCenter904/modules/configuration/gsrc/edge/capabilities/claim/local/DefaultClaimRetrievalPlugin.gs 
+2017-11-30 17:51:57,617 [412182546]   INFO - vaFunctionalExpressionSearcher - #methods: 0 
+2017-11-30 17:51:57,650 [412182579]   INFO - vaFunctionalExpressionSearcher - #usage files: 2 
+2017-11-30 17:52:41,922 [412226851]   INFO - vaFunctionalExpressionSearcher - #methods: 0 
+2017-11-30 17:52:41,933 [412226862]   INFO - vaFunctionalExpressionSearcher - #usage files: 2 
+2017-11-30 17:53:59,055 [412303984]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-30 17:53:59,066 [412303995]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-30 17:54:00,490 [412305419]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.096s. 
+2017-11-30 17:54:00,490 [412305419]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-30 17:54:00,491 [412305420]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-30 17:54:00,491 [412305420]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-30 17:54:00,491 [412305420]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-30 17:54:00,491 [412305420]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-30 17:54:10,964 [412315893]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-30 17:54:11,190 [412316119]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-30 17:54:11,191 [412316120]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-30 17:54:11,191 [412316120]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-30 17:54:13,980 [412318909]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.018 
+2017-11-30 17:54:13,989 [412318918]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.008 
+2017-11-30 17:54:13,989 [412318918]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 13.498s. 
+2017-11-30 17:54:14,487 [412319416]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.331s. 
+2017-11-30 17:54:28,995 [412333924]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 14.609s. 
+2017-11-30 17:54:28,995 [412333924]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.002s. 
+2017-11-30 17:54:28,995 [412333924]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-30 17:54:30,552 [412335481]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 31498 ms: 0 min 31sec 
+2017-11-30 17:54:38,540 [412343469]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-30 17:58:09,679 [412554608]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:15370,file://C:/work/ClaimCenter904/modules/configuration/gsrc/edge/capabilities/claim/summary/DefaultClaimSummaryPlugin.gs 
+2017-11-30 18:00:47,632 [412712561]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-30 18:00:47,635 [412712564]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-30 18:00:48,555 [412713484]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.237s. 
+2017-11-30 18:00:48,556 [412713485]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.001s. 
+2017-11-30 18:00:48,557 [412713486]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-30 18:00:48,557 [412713486]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-30 18:00:48,566 [412713495]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.001s. 
+2017-11-30 18:00:48,567 [412713496]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-30 18:00:50,037 [412714966]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-30 18:00:50,077 [412715006]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-30 18:00:50,095 [412715024]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-30 18:00:50,104 [412715033]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-30 18:00:52,732 [412717661]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.021 
+2017-11-30 18:00:52,736 [412717665]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.003 
+2017-11-30 18:00:52,736 [412717665]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 4.169s. 
+2017-11-30 18:00:53,021 [412717950]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.284s. 
+2017-11-30 18:01:08,131 [412733060]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 15.109s. 
+2017-11-30 18:01:08,136 [412733065]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.002s. 
+2017-11-30 18:01:08,137 [412733066]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-30 18:01:10,057 [412734986]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-30 18:01:10,066 [412734995]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 22301 ms: 0 min 22sec 
+2017-11-30 18:07:11,970 [413096899]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:32436,file://C:/work/ClaimCenter904/modules/configuration/gsrc/edge/capabilities/claim/summary/DefaultClaimSummaryPlugin.gs 
+2017-11-30 18:08:28,946 [413173875]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-30 18:08:28,948 [413173877]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-30 18:08:29,640 [413174569]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.188s. 
+2017-11-30 18:08:29,641 [413174570]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-30 18:08:29,641 [413174570]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-30 18:08:29,642 [413174571]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-30 18:08:29,643 [413174572]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-30 18:08:29,643 [413174572]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-30 18:08:31,536 [413176465]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-30 18:08:31,576 [413176505]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-30 18:08:31,576 [413176505]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-30 18:08:31,577 [413176506]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-30 18:08:34,303 [413179232]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.104 
+2017-11-30 18:08:34,309 [413179238]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.006 
+2017-11-30 18:08:34,310 [413179239]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 4.666s. 
+2017-11-30 18:08:34,682 [413179611]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.369s. 
+2017-11-30 18:08:54,305 [413199234]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 19.622s. 
+2017-11-30 18:08:54,313 [413199242]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.003s. 
+2017-11-30 18:08:54,313 [413199242]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-11-30 18:08:55,103 [413200032]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 26162 ms: 0 min 26sec 
+2017-11-30 18:08:56,505 [413201434]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-11-30 18:14:00,314 [413505243]   INFO - openapi.editor.impl.EditorImpl - Cache hits:12288, total requests:46148,file://C:/work/ClaimCenter904/modules/configuration/gsrc/edge/capabilities/claim/summary/DefaultClaimSummaryPlugin.gs 
+2017-11-30 18:14:18,319 [413523248]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-11-30 18:14:18,320 [413523249]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-11-30 18:14:18,908 [413523837]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.167s. 
+2017-11-30 18:14:18,908 [413523837]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-11-30 18:14:18,909 [413523838]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-11-30 18:14:18,910 [413523839]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-11-30 18:14:18,910 [413523839]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-11-30 18:14:18,911 [413523840]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-11-30 18:14:20,550 [413525479]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-11-30 18:14:20,576 [413525505]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-11-30 18:14:20,577 [413525506]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-11-30 18:14:20,577 [413525506]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-11-30 18:14:23,608 [413528537]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.016 
+2017-11-30 18:14:23,613 [413528542]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.005 
+2017-11-30 18:14:23,613 [413528542]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 4.702s. 
+2017-11-30 18:14:24,264 [413529193]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.647s. 
+2017-11-30 18:14:37,873 [413542802]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 13.608s. 
+2017-11-30 18:14:37,877 [413542806]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.001s. 
+2017-11-30 18:14:37,878 [413542807]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.001s. 
+2017-11-30 18:14:38,080 [413543009]   INFO - .server.BuildMessageDispatcher - An existing connection was forcibly closed by the remote host 
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:221)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:871)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:245)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:112)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:510)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:467)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:381)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:353)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:339)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:356)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+2017-11-30 18:14:38,844 [413543773]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 20528 ms: 0 min 20sec 
+2017-11-30 18:14:40,215 [413545144]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-12-01 09:40:38,644 [469103573]  ERROR - api.util.objectTree.ObjectNode - Editor of class com.intellij.openapi.editor.impl.EditorImpl hasn't been released: 
+--------------Creation trace: 
+java.lang.Throwable
+	at com.intellij.openapi.editor.impl.EditorImpl.<init>(EditorImpl.java:145)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.createEditor(EditorFactoryImpl.java:193)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.createViewer(EditorFactoryImpl.java:174)
+	at com.intellij.execution.impl.ConsoleViewUtil.setupConsoleEditor(ConsoleViewUtil.java:63)
+	at com.intellij.execution.impl.ConsoleViewImpl.doCreateConsoleEditor(ConsoleViewImpl.java:994)
+	at com.intellij.execution.impl.ConsoleViewImpl$15.compute(ConsoleViewImpl.java:936)
+	at com.intellij.execution.impl.ConsoleViewImpl$15.compute(ConsoleViewImpl.java:933)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:963)
+	at com.intellij.execution.impl.ConsoleViewImpl.createConsoleEditor(ConsoleViewImpl.java:933)
+	at com.intellij.execution.impl.ConsoleViewImpl.initConsoleEditor(ConsoleViewImpl.java:519)
+	at com.intellij.execution.impl.ConsoleViewImpl.getComponent(ConsoleViewImpl.java:498)
+	at com.guidewire.studio.codegen.view.WsdlFetcherView$Output.<init>(WsdlFetcherView.java:46)
+	at com.guidewire.studio.codegen.view.WsdlFetcherView.createUI(WsdlFetcherView.java:30)
+	at com.guidewire.studio.codegen.view.WsdlFetcherView.createUI(WsdlFetcherView.java:19)
+	at com.guidewire.studio.codegen.view.CustomView.<init>(CustomView.java:31)
+	at com.guidewire.studio.codegen.view.WsdlFetcherView.<init>(WsdlFetcherView.java:22)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.picocontainer.defaults.InstantiatingComponentAdapter.newInstance(InstantiatingComponentAdapter.java:193)
+	at org.picocontainer.defaults.ConstructorInjectionComponentAdapter$1.run(ConstructorInjectionComponentAdapter.java:220)
+	at org.picocontainer.defaults.ThreadLocalCyclicDependencyGuard.observe(ThreadLocalCyclicDependencyGuard.java:53)
+	at org.picocontainer.defaults.ConstructorInjectionComponentAdapter.getComponentInstance(ConstructorInjectionComponentAdapter.java:248)
+	at com.intellij.util.pico.ConstructorInjectionComponentAdapter.getComponentInstance(ConstructorInjectionComponentAdapter.java:59)
+	at com.intellij.openapi.components.impl.ServiceManagerImpl$MyComponentAdapter.getComponentInstance(ServiceManagerImpl.java:232)
+	at com.intellij.util.pico.DefaultPicoContainer.getLocalInstance(DefaultPicoContainer.java:246)
+	at com.intellij.util.pico.DefaultPicoContainer.getComponentInstance(DefaultPicoContainer.java:212)
+	at com.intellij.openapi.components.ServiceManager.doGetService(ServiceManager.java:46)
+	at com.intellij.openapi.components.ServiceManager.getService(ServiceManager.java:41)
+	at com.guidewire.studio.wsc.WSCEditor.fetch(WSCEditor.java:163)
+	at com.guidewire.studio.wsc.WSCEditor.lambda$addActionListeners$12(WSCEditor.java:150)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:289)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:650)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+--------------Kill trace: 
+java.lang.Throwable
+	at com.intellij.openapi.util.TraceableDisposable.kill(TraceableDisposable.java:41)
+	at com.intellij.openapi.editor.impl.EditorImpl.release(EditorImpl.java:868)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.releaseEditor(EditorFactoryImpl.java:212)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.validateEditorsAreReleased(EditorFactoryImpl.java:100)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl$1$1.dispose(EditorFactoryImpl.java:67)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:46)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:43)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:132)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:106)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:146)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:106)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:122)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:106)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:146)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:106)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeAll(ObjectTree.java:132)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:107)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:103)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$10.run(ProjectManagerImpl.java:637)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeProject(ProjectManagerImpl.java:629)
+	at com.intellij.openapi.application.impl.ApplicationImpl$6.run(ApplicationImpl.java:287)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:99)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:85)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:284)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:859)
+	at com.intellij.openapi.application.impl.ApplicationImpl.access$1000(ApplicationImpl.java:91)
+	at com.intellij.openapi.application.impl.ApplicationImpl$17.run(ApplicationImpl.java:835)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:841)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:790)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:785)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$5$1.run(IdeFrameImpl.java:273)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:337)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:321)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:654)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+-------------Own trace:
+com.intellij.openapi.util.TraceableDisposable$DisposalException: Editor of class com.intellij.openapi.editor.impl.EditorImpl hasn't been released:
+	at com.intellij.openapi.util.TraceableDisposable.throwDisposalError(TraceableDisposable.java:52)
+	at com.intellij.openapi.editor.impl.EditorImpl.throwDisposalError(EditorImpl.java:860)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.throwNotReleasedError(EditorFactoryImpl.java:109)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl.validateEditorsAreReleased(EditorFactoryImpl.java:97)
+	at com.intellij.openapi.editor.impl.EditorFactoryImpl$1$1.dispose(EditorFactoryImpl.java:67)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:46)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:43)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:132)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:106)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:146)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:106)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:122)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:106)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:146)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:106)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeAll(ObjectTree.java:132)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:107)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:103)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$10.run(ProjectManagerImpl.java:637)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeProject(ProjectManagerImpl.java:629)
+	at com.intellij.openapi.application.impl.ApplicationImpl$6.run(ApplicationImpl.java:287)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:99)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:85)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:284)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:859)
+	at com.intellij.openapi.application.impl.ApplicationImpl.access$1000(ApplicationImpl.java:91)
+	at com.intellij.openapi.application.impl.ApplicationImpl$17.run(ApplicationImpl.java:835)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:841)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:790)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:785)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$5$1.run(IdeFrameImpl.java:273)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:337)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:321)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:654)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2017-12-01 09:40:38,658 [469103587]  ERROR - api.util.objectTree.ObjectNode - Guidewire Studio 1.1.13  Build #Studio-1.0 
+2017-12-01 09:40:38,658 [469103587]  ERROR - api.util.objectTree.ObjectNode - JDK: 1.8.0_121 
+2017-12-01 09:40:38,658 [469103587]  ERROR - api.util.objectTree.ObjectNode - VM: Dynamic Code Evolution 64-Bit Server VM 
+2017-12-01 09:40:38,659 [469103588]  ERROR - api.util.objectTree.ObjectNode - Vendor: Oracle Corporation 
+2017-12-01 09:40:38,659 [469103588]  ERROR - api.util.objectTree.ObjectNode - OS: Windows 10 
+2017-12-01 09:40:38,659 [469103588]  ERROR - api.util.objectTree.ObjectNode - Last Action: Stop 
+2017-12-01 09:40:38,659 [469103588]  ERROR - api.util.objectTree.ObjectNode - Current Command: Exit 
+2017-12-01 09:40:39,607 [469104536]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-12-01 09:40:39,674 [469104603]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2017-12-01 09:40:39,680 [469104609]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-12-01 09:40:40,110 [469105039]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-12-01 09:40:40,110 [469105039]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-12-01 09:40:40,111 [469105040]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-12-01 09:40:40,228 [469105157]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-12-01 09:40:40,228 [469105157]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-12-01 09:40:40,352 [469105281]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-12-01 09:40:40,361 [469105290]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-12-01 09:40:40,385 [469105314]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-12-01 09:57:10,865 [   1511]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-12-01 09:57:10,934 [   1580]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-1.0, 31 Dec 0002 00:00) 
+2017-12-01 09:57:10,934 [   1580]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-12-01 09:57:10,934 [   1580]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_121-b13 (Oracle Corporation) 
+2017-12-01 09:57:10,934 [   1580]   INFO -        #com.intellij.idea.Main - JVM: 25.71-b01-dcevmlight-2 (Dynamic Code Evolution 64-Bit Server VM) 
+2017-12-01 09:57:10,934 [   1580]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=64m -ea -Didea.properties.file=C:/work/ClaimCenter904/.idea/settings/idea.properties -Dstudio.sdkroot=C:/work/ClaimCenter904 -Didea.plugins.compatible.build=143.2370.31 -Dstudio.minimum.preferred.idea.version=143.2370 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -Dapple.laf.useScreenMenuBar=true -Dapple.awt.application.name=Guidewire Studio -Didea.platform.prefix=Studio -Xmx4g 
+2017-12-01 09:57:10,934 [   1580]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-12-01 09:57:11,033 [   1679]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 99 ms 
+2017-12-01 09:57:11,048 [   1694]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-12-01 09:57:11,080 [   1726]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-12-01 09:57:16,966 [   7612]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2017-12-01 09:57:19,811 [  10457]   INFO - llij.ide.plugins.PluginManager - 34 plugins initialized in 5877 ms 
+2017-12-01 09:57:19,833 [  10479]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Git Integration (8.1), GitHub (143.2370.31), Gradle (143.2370.31), Groovy (9.0), I18n for Java (143.2370.31), IDEA CORE (143.SNAPSHOT), JUnit (1.0), Properties Support (143.SNAPSHOT), Terminal (0.1) 
+2017-12-01 09:57:19,833 [  10479]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Gosu (1.1.13-rc-SNAPSHOT), Gosu Inspections Plugin (1.1.13-rc-SNAPSHOT), Guidewire Services Best Practices (1.1.13-rc-SNAPSHOT), Guidewire Studio (1.1.13-rc-SNAPSHOT) 
+2017-12-01 09:57:19,833 [  10479]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.1.3.0), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (143.SNAPSHOT), Eclipse Integration (3.0), EditorConfig (1.0), IntelliLang (8.0), JavaFX (1.0), Kotlin (1.0.1-release-IJ143-40), Maven Integration (143.2370.31), Plugin DevKit (1.0), Settings Repository (143.2370.31), Subversion Integration (1.1), Task Management (1.0), TestNG-J (8.0), UI Designer (143.2370.31), XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2017-12-01 09:57:27,081 [  17727]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=4130865152 
+2017-12-01 09:57:27,420 [  18066]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\work\ClaimCenter904\studio\sdk\bin\fsnotifier64.exe 
+2017-12-01 09:57:27,467 [  18113]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-12-01 09:57:31,993 [  22639]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-12-01 09:57:36,520 [  27166]   INFO - plication.impl.ApplicationImpl - 80 application components initialized in 22586 ms 
+2017-12-01 09:57:36,573 [  27219]   INFO - .intellij.idea.IdeaApplication - App initialization took 30539 ms 
+2017-12-01 09:57:36,770 [  27416]   INFO - ateSettings.impl.UpdateChecker - Connection failed (no protocol: ?os=Windows+10+10.0&build=Studio-1.0&uid=aaea98c7-9817-4895-ab32-98696b9dee89). Please check network connection and try again. 
+2017-12-01 09:57:39,248 [  29894]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2017-12-01 09:57:39,838 [  30484]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 55 ms 
+2017-12-01 09:57:39,838 [  30484]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2017-12-01 09:57:40,035 [  30681]   INFO - ellij.project.impl.ProjectImpl - 126 project components initialized in 2032 ms 
+2017-12-01 09:57:40,328 [  30974]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 293 ms 
+2017-12-01 09:57:44,017 [  34663]   INFO - .studio.init.StudioEnvironment - Minimum preferred build of IDEA is 143.2370 
+2017-12-01 09:57:44,017 [  34663]   INFO - .studio.init.StudioEnvironment - Most recently tested IDEA build is 143.2370.31 
+2017-12-01 09:57:44,017 [  34663]   INFO - .studio.init.StudioEnvironment - Currently running IDEA build 143.2370 
+2017-12-01 09:57:53,245 [  43891]   INFO - tartup.impl.StartupManagerImpl - C:/work/ClaimCenter904/.idea/misc.xml case-sensitivity: false 
+2017-12-01 09:57:56,232 [  46878]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 18295 ms 
+2017-12-01 09:57:57,057 [  47703]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1480ms; general responsiveness: ok; EDT responsiveness: 0/1 sluggish, 1/1 very slow 
+2017-12-01 09:58:11,501 [  62147]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 14444ms; general responsiveness: 1/14 sluggish, 5/14 very slow; EDT responsiveness: 1/9 sluggish, 1/9 very slow 
+2017-12-01 09:59:43,423 [ 154069]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-12-01 09:59:45,725 [ 156371]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-12-01 10:00:05,191 [ 175837]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.137s. 
+2017-12-01 10:00:05,192 [ 175838]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-12-01 10:00:05,192 [ 175838]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-12-01 10:00:05,193 [ 175839]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-12-01 10:00:05,199 [ 175845]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.0s. 
+2017-12-01 10:00:05,199 [ 175845]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-12-01 10:00:23,199 [ 193845]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-12-01 10:00:23,246 [ 193892]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-12-01 10:00:23,246 [ 193892]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-12-01 10:00:23,246 [ 193892]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-12-01 10:00:29,405 [ 200051]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.032 
+2017-12-01 10:00:29,405 [ 200051]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.000 
+2017-12-01 10:00:29,405 [ 200051]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 24.205s. 
+2017-12-01 10:00:30,012 [ 200658]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.607s. 
+2017-12-01 10:01:04,454 [ 235100]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 34.442s. 
+2017-12-01 10:01:04,461 [ 235107]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.002s. 
+2017-12-01 10:01:04,461 [ 235107]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-12-01 10:01:07,243 [ 237889]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-12-01 10:01:11,874 [ 242520]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 6 took 88453 ms: 1 min 28sec 
+2017-12-01 10:01:12,033 [ 242679]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-12-01 10:01:12,051 [ 242697]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\work\ClaimCenter904 
+2017-12-01 10:01:20,276 [ 250922]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 8273 ms: 0 min 8sec 
+2017-12-01 10:01:28,388 [ 259034]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-12-01 14:56:49,889 [17980535]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@4d08df95; elapsed time was 90ms 
+2017-12-19 15:07:57,127 [1573847773]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@4d08df95; elapsed time was 83ms 
+2017-12-19 15:08:15,667 [1573866313]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@4d08df95; elapsed time was 153ms 
+2017-12-19 15:08:18,772 [1573869418]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@4d08df95; elapsed time was 80ms 
+2017-12-19 15:08:33,068 [1573883714]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@4d08df95; elapsed time was 72ms 
+2017-12-19 15:10:12,772 [1573983418]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@4d08df95; elapsed time was 66ms 
+2017-12-19 18:01:55,565 [    620]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-12-19 18:01:55,613 [    668]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-1.0, 31 Dec 0002 00:00) 
+2017-12-19 18:01:55,613 [    668]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-12-19 18:01:55,613 [    668]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_121-b13 (Oracle Corporation) 
+2017-12-19 18:01:55,613 [    668]   INFO -        #com.intellij.idea.Main - JVM: 25.71-b01-dcevmlight-2 (Dynamic Code Evolution 64-Bit Server VM) 
+2017-12-19 18:01:55,613 [    668]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=64m -ea -Didea.properties.file=C:/work/ClaimCenter904/.idea/settings/idea.properties -Dstudio.sdkroot=C:/work/ClaimCenter904 -Didea.plugins.compatible.build=143.2370.31 -Dstudio.minimum.preferred.idea.version=143.2370 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -Dapple.laf.useScreenMenuBar=true -Dapple.awt.application.name=Guidewire Studio -Didea.platform.prefix=Studio -Xmx4g 
+2017-12-19 18:01:55,613 [    668]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-12-19 18:01:55,689 [    744]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 72 ms 
+2017-12-19 18:01:55,713 [    768]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-12-19 18:01:55,737 [    792]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-12-19 18:01:59,949 [   5004]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2017-12-19 18:02:01,981 [   7036]   INFO - llij.ide.plugins.PluginManager - 34 plugins initialized in 5288 ms 
+2017-12-19 18:02:01,993 [   7048]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Git Integration (8.1), GitHub (143.2370.31), Gradle (143.2370.31), Groovy (9.0), I18n for Java (143.2370.31), IDEA CORE (143.SNAPSHOT), JUnit (1.0), Properties Support (143.SNAPSHOT), Terminal (0.1) 
+2017-12-19 18:02:01,993 [   7048]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Gosu (1.1.13-rc-SNAPSHOT), Gosu Inspections Plugin (1.1.13-rc-SNAPSHOT), Guidewire Services Best Practices (1.1.13-rc-SNAPSHOT), Guidewire Studio (1.1.13-rc-SNAPSHOT) 
+2017-12-19 18:02:01,993 [   7048]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.1.3.0), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (143.SNAPSHOT), Eclipse Integration (3.0), EditorConfig (1.0), IntelliLang (8.0), JavaFX (1.0), Kotlin (1.0.1-release-IJ143-40), Maven Integration (143.2370.31), Plugin DevKit (1.0), Settings Repository (143.2370.31), Subversion Integration (1.1), Task Management (1.0), TestNG-J (8.0), UI Designer (143.2370.31), XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2017-12-19 18:02:12,326 [  17381]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=4130865152 
+2017-12-19 18:02:12,758 [  17813]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\work\ClaimCenter904\studio\sdk\bin\fsnotifier64.exe 
+2017-12-19 18:02:12,794 [  17849]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-12-19 18:02:16,587 [  21642]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63345 
+2017-12-19 18:02:21,415 [  26470]   INFO - plication.impl.ApplicationImpl - 80 application components initialized in 24722 ms 
+2017-12-19 18:02:21,471 [  26526]   INFO - .intellij.idea.IdeaApplication - App initialization took 28717 ms 
+2017-12-19 18:02:21,495 [  26550]   INFO - ateSettings.impl.UpdateChecker - Connection failed (no protocol: ?os=Windows+10+10.0&build=Studio-1.0&uid=aaea98c7-9817-4895-ab32-98696b9dee89). Please check network connection and try again. 
+2017-12-19 18:02:24,007 [  29062]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2017-12-19 18:02:24,515 [  29570]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 40 ms 
+2017-12-19 18:02:24,519 [  29574]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2017-12-19 18:02:24,691 [  29746]   INFO - ellij.project.impl.ProjectImpl - 126 project components initialized in 1860 ms 
+2017-12-19 18:02:24,971 [  30026]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 280 ms 
+2017-12-19 18:02:27,348 [  32403]   INFO - .studio.init.StudioEnvironment - Minimum preferred build of IDEA is 143.2370 
+2017-12-19 18:02:27,348 [  32403]   INFO - .studio.init.StudioEnvironment - Most recently tested IDEA build is 143.2370.31 
+2017-12-19 18:02:27,348 [  32403]   INFO - .studio.init.StudioEnvironment - Currently running IDEA build 143.2370 
+2017-12-19 18:02:36,188 [  41243]   INFO - tartup.impl.StartupManagerImpl - C:/work/ClaimCenter904/.idea/misc.xml case-sensitivity: false 
+2017-12-19 18:02:38,973 [  44028]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 16253 ms 
+2017-12-19 18:02:39,013 [  44068]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 817ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-12-19 18:02:44,845 [  49900]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 5824ms; general responsiveness: ok; EDT responsiveness: 0/6 sluggish, 5/6 very slow 
+2017-12-19 18:04:36,081 [ 161136]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-12-19 18:04:37,878 [ 162933]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-12-19 18:04:47,104 [ 172159]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Metadata(configuration) took 0.124s. 
+2017-12-19 18:04:47,105 [ 172160]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: PCF(configuration) took 0.0s. 
+2017-12-19 18:04:47,105 [ 172160]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Permission(configuration) took 0.0s. 
+2017-12-19 18:04:47,106 [ 172161]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Localization(configuration) took 0.0s. 
+2017-12-19 18:04:47,108 [ 172163]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Product Model(configuration) took 0.001s. 
+2017-12-19 18:04:47,108 [ 172163]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Entity Role Constraints(configuration) took 0.0s. 
+2017-12-19 18:05:02,489 [ 187544]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Using display properties from location: file:/C:/work/ClaimCenter904/modules/configuration/config/locale/ 
+2017-12-19 18:05:02,537 [ 187592]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2017-12-19 18:05:02,538 [ 187593]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2017-12-19 18:05:02,538 [ 187593]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2017-12-19 18:05:06,390 [ 191445]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 1 files, runtime is 0.044 
+2017-12-19 18:05:06,396 [ 191451]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Saved 0 files, runtime is 0.006 
+2017-12-19 18:05:06,397 [ 191452]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Xml(configuration) took 19.287s. 
+2017-12-19 18:05:06,401 [ 191456]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Display Key(configuration) took 0.001s. 
+2017-12-19 18:05:06,475 [ 191530]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu compiler(configuration) took 0.072s. 
+2017-12-19 18:05:06,477 [ 191532]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Gosu (noncompiled) Jar(configuration) took 0.0s. 
+2017-12-19 18:05:06,478 [ 191533]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: OSGi Metadata(configuration) took 0.0s. 
+2017-12-19 18:05:07,382 [ 192437]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 31335 ms: 0 min 31sec 
+2017-12-19 18:05:07,720 [ 192775]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2017-12-19 18:05:09,035 [ 194090]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2017-12-19 18:05:10,706 [ 195761]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 3050 ms: 0 min 3sec 
+2017-12-19 18:05:12,211 [ 197266]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/work/ClaimCenter904/studio/sdk/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_121/lib/tools.jar;C:/work/ClaimCenter904/studio/sdk/lib/optimizedFileManager.jar;C:/work/ClaimCenter904/studio/sdk/lib/ecj-4.4.jar 
+2018-01-23 13:55:43,311 [3009228366]   INFO - j.compiler.server.BuildManager - Clearing project build data because the project does not exist or was not opened for more than 30 days: C:\work\ClaimCenter904\.idea\settings\system\compile-server\claimcenter_2b23d3bb 
+2018-01-23 13:57:22,231 [3009327286]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 72 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-135714\threadDump-20180123-135722.txt 
+2018-01-23 13:57:31,724 [3009336779]   WARN - cution.filters.CompositeFilter - UrlFilter.applyFilter() took 16133 ms on '''b190697             2018-01-23 13:56:33,517 WARN LeaseIdImpl{_leaseId=f7422cd4-e11a-4118-93b2-4ca77932e039, _name=324} currently owned by this server expired. Will not start failover.
+''' 
+2018-01-23 13:57:45,313 [3009350368]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 65 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-135714\threadDump-20180123-135745.txt 
+2018-01-23 13:58:14,574 [3009379629]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 54 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-135714\threadDump-20180123-135814.txt 
+2018-01-23 13:58:17,346 [3009382401]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 45600 ms on '''	at com.guidewire.pl.system.cache2.ConcurrentDoublyLinkedList.addBefore(ConcurrentDoublyLinkedList.java:62)
+''' 
+2018-01-23 13:58:27,055 [3009392110]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 52 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-135714\threadDump-20180123-135827.txt 
+2018-01-23 13:58:58,312 [3009423367]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 40750 ms on '''	at com.guidewire.pl.system.cache2.GlobalCacheImpl.putBean(GlobalCacheImpl.java:318)
+''' 
+2018-01-23 13:59:19,143 [3009444198]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 20786 ms on '''	at com.guidewire.pl.system.service.context.ServiceToken.getUser(ServiceToken.java:66)
+''' 
+2018-01-23 13:59:23,030 [3009448085]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 3659 ms on '''	at com.guidewire.pl.system.dependency.CommonDependenciesImpl.setServiceToken(CommonDependenciesImpl.java:92)
+''' 
+2018-01-23 13:59:23,497 [3009448552]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 40 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-135714\threadDump-20180123-135918.txt 
+2018-01-23 13:59:36,295 [3009461350]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 10846 ms on '''	at com.guidewire.pl.system.batchprocessing.BatchProcessStartupHelper.setServiceTokenWithUserFromLease(BatchProcessStartupHelper.java:222)
+''' 
+2018-01-23 13:59:51,148 [3009476203]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 13936 ms on '''	at com.guidewire.pl.system.batchprocessing.BatchProcessManagerImpl.handleStartRequests(BatchProcessManagerImpl.java:859)
+''' 
+2018-01-23 14:00:00,815 [3009485870]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 29 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-135714\threadDump-20180123-140000.txt 
+2018-01-23 14:01:37,260 [3009582315]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 4607 ms on '''	at com.guidewire.pl.system.database.connection.DBCPConnectionPool.translateConnectException(DBCPConnectionPool.java:223)
+''' 
+2018-01-23 14:01:37,772 [3009582827]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 72 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-140137\threadDump-20180123-140137.txt 
+2018-01-23 14:01:40,712 [3009585767]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 2160 ms on '''	at com.guidewire.pl.system.transaction.ConnectionHandler.checkAndGetConnection(ConnectionHandler.java:140)
+''' 
+2018-01-23 14:01:44,716 [3009589771]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 3147 ms on '''	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+''' 
+2018-01-23 14:01:47,436 [3009592491]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 2549 ms on '''	at java.io.WinNTFileSystem.canonicalize(WinNTFileSystem.java:406)
+''' 
+2018-01-23 14:01:52,955 [3009598010]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 56 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-140137\threadDump-20180123-140152.txt 
+2018-01-23 14:01:55,502 [3009600557]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 2564 ms on '''	at org.apache.commons.dbcp2.DriverManagerConnectionFactory.createConnection(DriverManagerConnectionFactory.java:75)
+''' 
+2018-01-23 14:01:57,499 [3009602554]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 1878 ms on '''	at org.apache.commons.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:205)
+''' 
+2018-01-23 14:01:59,296 [3009604351]   WARN - cution.filters.CompositeFilter - ExceptionFilter.applyFilter() took 1672 ms on '''	at org.apache.commons.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:861)
+''' 
+2018-01-23 14:02:04,874 [3009609929]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 48 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-140137\threadDump-20180123-140204.txt 
+2018-01-23 14:02:09,812 [3009614867]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@6eb39642; elapsed time was 94ms 
+2018-01-23 14:02:14,546 [3009619601]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 45 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-140137\threadDump-20180123-140214.txt 
+2018-01-23 14:02:21,406 [3009626461]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 42 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-140137\threadDump-20180123-140221.txt 
+2018-01-23 14:02:40,296 [3009645351]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@6eb39642; elapsed time was 125ms 
+2018-01-23 14:02:54,547 [3009659602]   INFO - .diagnostic.PerformanceWatcher - High memory usage (free 35 of 409 MB) while dumping threads to C:\work\ClaimCenter904\.idea\settings\system\log\threadDumps-20171219-180214-Studio-1.0\20180123-140254\threadDump-20180123-140254.txt 
+2018-01-23 14:03:21,078 [3009686133]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@6eb39642; elapsed time was 282ms 
+2018-01-25 10:27:37,664 [3169542719]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.compiler.server.BuildManager$10@52212baf; elapsed time was 126ms 
+2018-04-09 12:21:26,212 [    993]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-04-09 12:21:26,286 [   1067]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-1.0, 31 Dec 0002 00:00) 
+2018-04-09 12:21:26,287 [   1068]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2018-04-09 12:21:26,287 [   1068]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_121-b13 (Oracle Corporation) 
+2018-04-09 12:21:26,287 [   1068]   INFO -        #com.intellij.idea.Main - JVM: 25.71-b01-dcevmlight-2 (Dynamic Code Evolution 64-Bit Server VM) 
+2018-04-09 12:21:26,287 [   1068]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=64m -ea -Didea.properties.file=C:/work/ClaimCenter904/.idea/settings/idea.properties -Dstudio.sdkroot=C:/work/ClaimCenter904 -Didea.plugins.compatible.build=143.2370.31 -Dstudio.minimum.preferred.idea.version=143.2370 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -Dapple.laf.useScreenMenuBar=true -Dapple.awt.application.name=Guidewire Studio -Didea.platform.prefix=Studio -Xmx4g 
+2018-04-09 12:21:26,288 [   1069]   INFO -        #com.intellij.idea.Main - ext: C:\work\java\jdk1.8.0_121\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2018-04-09 12:21:26,379 [   1160]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 91 ms 
+2018-04-09 12:21:26,405 [   1186]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2018-04-09 12:21:26,433 [   1214]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2018-04-09 12:21:30,879 [   5660]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2018-04-09 12:21:33,065 [   7846]   INFO - llij.ide.plugins.PluginManager - 34 plugins initialized in 4653 ms 
+2018-04-09 12:21:33,101 [   7882]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Git Integration (8.1), GitHub (143.2370.31), Gradle (143.2370.31), Groovy (9.0), I18n for Java (143.2370.31), IDEA CORE (143.SNAPSHOT), JUnit (1.0), Properties Support (143.SNAPSHOT), Terminal (0.1) 
+2018-04-09 12:21:33,101 [   7882]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Gosu (1.1.13-rc-SNAPSHOT), Gosu Inspections Plugin (1.1.13-rc-SNAPSHOT), Guidewire Services Best Practices (1.1.13-rc-SNAPSHOT), Guidewire Studio (1.1.13-rc-SNAPSHOT) 
+2018-04-09 12:21:33,101 [   7882]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.1.3.0), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (143.SNAPSHOT), Eclipse Integration (3.0), EditorConfig (1.0), IntelliLang (8.0), JavaFX (1.0), Kotlin (1.0.1-release-IJ143-40), Maven Integration (143.2370.31), Plugin DevKit (1.0), Settings Repository (143.2370.31), Subversion Integration (1.1), Task Management (1.0), TestNG-J (8.0), UI Designer (143.2370.31), XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2018-04-09 12:21:37,915 [  12696]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=4130865152 
+2018-04-09 12:21:38,150 [  12931]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\work\ClaimCenter904\studio\sdk\bin\fsnotifier64.exe 
+2018-04-09 12:21:38,186 [  12967]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-04-09 12:21:40,219 [  15000]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-04-09 12:21:45,028 [  19809]   INFO - plication.impl.ApplicationImpl - 80 application components initialized in 16618 ms 
+2018-04-09 12:21:45,073 [  19854]   INFO - .intellij.idea.IdeaApplication - App initialization took 23669 ms 
+2018-04-09 12:21:45,100 [  19881]   INFO - ateSettings.impl.UpdateChecker - Connection failed (no protocol: ?os=Windows+10+10.0&build=Studio-1.0&uid=8c441c33-7955-4727-97ef-885518a75875). Please check network connection and try again. 
+2018-04-09 12:21:47,548 [  22329]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2018-04-09 12:21:47,924 [  22705]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 43 ms 
+2018-04-09 12:21:47,925 [  22706]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-04-09 12:21:48,098 [  22879]   INFO - ellij.project.impl.ProjectImpl - 126 project components initialized in 1797 ms 
+2018-04-09 12:21:48,456 [  23237]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 358 ms 
+2018-04-09 12:21:52,579 [  27360]   INFO - .studio.init.StudioEnvironment - Minimum preferred build of IDEA is 143.2370 
+2018-04-09 12:21:52,579 [  27360]   INFO - .studio.init.StudioEnvironment - Most recently tested IDEA build is 143.2370.31 
+2018-04-09 12:21:52,579 [  27360]   INFO - .studio.init.StudioEnvironment - Currently running IDEA build 143.2370 
+2018-04-09 12:21:59,295 [  34076]   INFO - tartup.impl.StartupManagerImpl - C:/work/ClaimCenter904/.idea/misc.xml case-sensitivity: false 
+2018-04-09 12:22:02,552 [  37333]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 16478 ms 
+2018-04-09 12:22:02,975 [  37756]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1038ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2018-04-09 12:22:09,576 [  44357]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 6598ms; general responsiveness: ok; EDT responsiveness: 0/7 sluggish, 4/7 very slow 
+2018-04-09 12:22:09,579 [  44360]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 5002 files to update 
+2018-04-09 12:22:24,365 [  59146]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 14786ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-09 12:22:41,273 [  76054]   INFO - s.impl.ProjectManagerComponent - project roots have changed 
+2018-04-09 12:23:22,034 [ 116815]   INFO - ellij.vfs.persistent.FSRecords - Contents:16384 of 102334143, reuses:16381 of 102244709 for 1123 
+2018-04-09 12:23:40,959 [ 135740]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 136ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-09 12:23:41,781 [ 136562]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 822ms; general responsiveness: ok; EDT responsiveness: ok 

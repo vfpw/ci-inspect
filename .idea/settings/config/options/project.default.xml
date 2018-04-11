@@ -41,8 +41,6 @@
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
           <module />
           <method>
-            <option name="Make" enabled="true" />
-            <option name="MakeIncludingOSGi" enabled="true" />
             <option name="MakeIncludingOSGiNoErrorCheck" enabled="true" />
           </method>
         </configuration>
@@ -59,8 +57,6 @@
           <module name="" />
           <envs />
           <method>
-            <option name="Make" enabled="true" />
-            <option name="MakeIncludingOSGi" enabled="true" />
             <option name="MakeIncludingOSGiNoErrorCheck" enabled="true" />
           </method>
         </configuration>
@@ -83,8 +79,6 @@
           <envs />
           <patterns />
           <method>
-            <option name="Make" enabled="true" />
-            <option name="MakeIncludingOSGi" enabled="true" />
             <option name="MakeIncludingOSGiNoErrorCheck" enabled="true" />
           </method>
         </configuration>

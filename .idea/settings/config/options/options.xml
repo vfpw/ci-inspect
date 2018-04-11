@@ -3,6 +3,7 @@
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="2" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
-    <property name="lastTip" value="7" />
+    <property name="lastTip" value="8" />
+    <property name="file.chooser.recent.files" value="C:/work/Avaliacao_Gosu_SSB.xml" />
   </component>
 </application>

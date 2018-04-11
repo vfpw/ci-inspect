@@ -14,8 +14,6 @@
     <envs />
     <method>
       <option name="Make" enabled="false" />
-      <option name="MakeIncludingOSGi" enabled="true" />
-      <option name="MakeIncludingOSGiNoErrorCheck" enabled="true" />
     </method>
   </configuration>
 </component>

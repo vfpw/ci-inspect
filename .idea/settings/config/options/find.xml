@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Project 'ClaimCenter'" />
+    <option name="defaultScopeName" value="Project 'ClaimCenter'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'ClaimCenter'" />
   </component>
 </application>

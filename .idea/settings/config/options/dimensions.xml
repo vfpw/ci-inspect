@@ -7,6 +7,8 @@
     <location key="StructurePopup.1366.0.1280.720" x="1779" y="136" />
     <location key="findTextDialog.0.0.1366.768" x="437" y="78" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="112" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="98" />
+    <location key="SettingsEditor.0.0.1366.768" x="164" y="13" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1344" height="227" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1344" height="227" />
     <size key="GridCell.Tab.0.right.0.0.1366.768" width="1344" height="227" />

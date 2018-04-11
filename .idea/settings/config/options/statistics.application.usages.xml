@@ -1,30 +1,30 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="libraries">
-      <project id="ClaimCenter" values="groovy" collectionTime="1523457349562" />
+      <project id="ClaimCenter" values="groovy" collectionTime="1523457615528" />
     </group>
     <group name="Git">
-      <project id="ClaimCenter" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1523457349574" />
+      <project id="ClaimCenter" values="config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1523457615537" />
     </group>
     <group name="language-level">
-      <project id="ClaimCenter" values="JDK_1_8" collectionTime="1523457349571" />
+      <project id="ClaimCenter" values="JDK_1_8" collectionTime="1523457615536" />
     </group>
     <group name="run-configuration-type">
-      <project id="ClaimCenter" values="Application" collectionTime="1523457349324" />
+      <project id="ClaimCenter" values="Application" collectionTime="1523457615122" />
     </group>
     <group name="file-type">
-      <project id="ClaimCenter" values="Typelist TIX,GosuTemplate,DTI,HTML,Typelist TTX,Images,Native,JavaScript,Properties,Plugin,PLAIN_TEXT,Groovy,ARCHIVE,Entity Name,UNKNOWN,PCF,Typelist TTI,Gosu,JSON,CSS,WSC,JAVA,SQL,Entity,IDEA_MODULE,XML" collectionTime="1523457349533" />
+      <project id="ClaimCenter" values="HTML,Typelist TTX,PCF,Typelist TIX,ARCHIVE,PLAIN_TEXT,Images,JSON,Gosu,Groovy,WSC,UNKNOWN,CSS,SQL,IDEA_MODULE,Typelist TTI,JAVA,Properties,GosuTemplate,XML,DTI,Entity Name,Plugin,JavaScript,Native,Entity" collectionTime="1523457615503" />
     </group>
     <group name="module type">
-      <project id="ClaimCenter" values="JAVA_MODULE" collectionTime="1523457349323" />
+      <project id="ClaimCenter" values="JAVA_MODULE" collectionTime="1523457615121" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="execute.Application.Debug" count="18" />
       <entry feature="execute.Application.Run" count="1" />
-      <entry feature="ide.settings.Inspections" count="1" />
-      <entry feature="ideaapp.started" count="9" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ideaapp.started" count="10" />
     </counts>
   </component>
 </application>

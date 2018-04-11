@@ -4,7 +4,7 @@
       <project id="ClaimCenter" values="groovy" collectionTime="1523457615528" />
     </group>
     <group name="Git">
-      <project id="ClaimCenter" values="config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1523457615537" />
+      <project id="ClaimCenter" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1523457615537" />
     </group>
     <group name="language-level">
       <project id="ClaimCenter" values="JDK_1_8" collectionTime="1523457615536" />
@@ -13,7 +13,7 @@
       <project id="ClaimCenter" values="Application" collectionTime="1523457615122" />
     </group>
     <group name="file-type">
-      <project id="ClaimCenter" values="HTML,Typelist TTX,PCF,Typelist TIX,ARCHIVE,PLAIN_TEXT,Images,JSON,Gosu,Groovy,WSC,UNKNOWN,CSS,SQL,IDEA_MODULE,Typelist TTI,JAVA,Properties,GosuTemplate,XML,DTI,Entity Name,Plugin,JavaScript,Native,Entity" collectionTime="1523457615503" />
+      <project id="ClaimCenter" values="Typelist TTX,Groovy,JavaScript,Gosu,Entity Name,Typelist TTI,Properties,Typelist TIX,SQL,Plugin,Images,IDEA_MODULE,XML,PCF,Native,PLAIN_TEXT,JAVA,JSON,DTI,GosuTemplate,UNKNOWN,ARCHIVE,WSC,HTML,Entity,CSS" collectionTime="1523457615503" />
     </group>
     <group name="module type">
       <project id="ClaimCenter" values="JAVA_MODULE" collectionTime="1523457615121" />
@@ -23,8 +23,8 @@
     <counts>
       <entry feature="execute.Application.Debug" count="18" />
       <entry feature="execute.Application.Run" count="1" />
-      <entry feature="ide.settings.Inspections" count="2" />
-      <entry feature="ideaapp.started" count="10" />
+      <entry feature="ide.settings.Inspections" count="3" />
+      <entry feature="ideaapp.started" count="11" />
     </counts>
   </component>
 </application>

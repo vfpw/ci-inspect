@@ -2,5 +2,4 @@
   <component name="CodeInsightSettings">
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="inspection-profile" />
 </application>
